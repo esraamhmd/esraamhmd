@@ -1,5 +1,19 @@
-<h1 align="left">Hi 👋, I'm Esraa Mahmoud</h1>
-<h3 align="left">A passionate CS Student</h3>
+# Hi there, I'm Esraa Mahmoud! 👋
+
+I'm a passionate Computer Science student with a keen interest in Frontend Engineering. Welcome to my GitHub profile!
+
+## About Me
+
+- 🎓 Currently pursuing a degree in Computer Science.
+- 💼 Actively seeking internships in Frontend Engineering to apply and expand my skills.
+- 🌱 Continuously learning and exploring new technologies in web development.
+- 🔍 Open to collaboration on projects that involve frontend development and design.
+
+## Skills
+
+- **Languages:** JavaScript, HTML5, CSS3
+- **Frameworks/Libraries:** React.js, Bootstrap
+- **Tools/Platforms:** Git, VS Code, Figma
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
