@@ -1,10 +1,10 @@
 # Hi there, I'm Esraa Mahmoud! 👋
 
-I'm a passionate Computer Science student with a keen interest in Frontend Engineering. Welcome to my GitHub profile!
+I'm a passionate Frontend Developer with a keen interest in Frontend Engineering. Welcome to my GitHub profile!
 
 ## About Me
 
-- 🎓 Currently pursuing a degree in Computer Science.
+- 🎓 Frontend Developer | React.js | CS Graduate.
 - 💼 Actively seeking internships in Frontend Engineering to apply and expand my skills.
 - 🌱 Continuously learning and exploring new technologies in web development.
 - 🔍 Open to collaboration on projects that involve frontend development and design.
