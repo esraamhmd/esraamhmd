@@ -1,26 +1,30 @@
 # Hi there, I'm Esraa Mahmoud! 👋
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React.js+Developer;CS+Graduate;Passionate+about+Web+Development&center=false&width=500&height=45">
+<p>
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React.js+Developer;CS+Graduate;Passionate+about+Web+Development&font=Fira%20Code&width=500&height=45">
+</p>
+
+<img align="right" height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 I'm a passionate **Frontend Developer** with a keen interest in **Frontend Engineering**. Welcome to my GitHub profile!
 
 ---
 
-## About Me
+## 👩‍💻 About Me
 
 * 🎓 Frontend Developer | React.js | CS Graduate
-* 💼 Actively seeking **internships in Frontend Engineering** to apply and expand my skills
-* 🌱 Continuously learning and exploring new technologies in **web development**
-* 🔍 Open to collaboration on projects involving **frontend development and UI design**
+* 💼 Actively seeking **Frontend internships**
+* 🌱 Currently learning **TypeScript, Redux Toolkit, Tailwind CSS**
+* 🤝 Open to collaboration on **Frontend Projects**
 
 ---
 
-## Skills
+## 🛠 Skills
 
 * **Languages:** JavaScript, HTML5, CSS3, TypeScript, Python
 * **Frameworks/Libraries:** React.js, Redux Toolkit, Tailwind CSS, Material UI, Bootstrap
 * **Concepts:** OOP, Software Development
-* **Tools/Platforms:** Git, GitHub, VS Code, Figma, Microsoft Office
+* **Tools:** Git, GitHub, VS Code, Figma, Microsoft Office
 
 ---
 
@@ -47,18 +51,14 @@ I'm a passionate **Frontend Developer** with a keen interest in **Frontend Engin
 
 ---
 
-## 📊 GitHub Activity
+## ⚡ Fun Animations
 
-![Esraa's GitHub stats](https://github-readme-stats.vercel.app/api?username=esraamhmd\&show_icons=true\&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esraamhmd\&layout=compact\&theme=tokyonight)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=esraamhmd\&theme=tokyonight)
+<p>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="200">
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/coding.gif?raw=true" width="200">
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/night-coding.gif?raw=true" width="200">
+</p>
 
 ---
 
-✨ *Always learning, building, and improving.*
+✨ **Always learning, building, and improving 🚀**
