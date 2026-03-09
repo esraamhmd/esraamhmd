@@ -6,7 +6,7 @@
 
 <img align="right" width="200" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
-I'm a passionate **Frontend Developer** with a keen interest in **Frontend Engineering**, always eager to learn, build, and deliver high-quality web experiences. Welcome to my GitHub profile!
+I'm a passionate Frontend Developer with a keen interest in Frontend Engineering. Welcome to my GitHub profile!
 
 
 
