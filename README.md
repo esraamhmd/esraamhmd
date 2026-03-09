@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React.js+Developer;CS+Graduate;Passionate+about+Web+Development&font=Fira%20Code&width=600&height=60">
 </p>
 
-<img align="right" width="200" src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif">
+<img align="right" width="100" src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif">
 
 I'm a passionate Frontend Developer with a keen interest in Frontend Engineering. Welcome to my GitHub profile!
 
