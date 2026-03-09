@@ -1,15 +1,14 @@
 # Hi there, I'm Esraa Mahmoud! 👋
 
 <p>
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React.js+Developer;CS+Graduate;Passionate+about+Web+Development&font=Fira%20Code&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React.js+Developer;CS+Graduate;Passionate+about+Web+Development&font=Fira%20Code&width=600&height=60">
 </p>
 
 <img align="right" width="300" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
 I'm a passionate **Frontend Developer** with a keen interest in **Frontend Engineering**, always eager to learn, build, and deliver high-quality web experiences. Welcome to my GitHub profile!
 
-<!-- Short line above About Me -->
-<hr width="120" align="left" style="border:1px solid #ccc;margin-top:10px;margin-bottom:15px;">
+
 
 ## 👩‍💻 About Me
 
