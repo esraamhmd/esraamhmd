@@ -7,6 +7,7 @@
 <img align="right" width="100" src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif">
 
 I'm a passionate Frontend Developer with a keen interest in Frontend Engineering. Welcome to my GitHub profile!
+🎓 **Computer Science Graduate** - Faculty of Computers and Artificial Intelligence
 
 
 
