@@ -1,14 +1,17 @@
 # Hi there, I'm Esraa Mahmoud! 👋
 
 <p>
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React.js+Developer;CS+Graduate;Passionate+about+Web+Development&font=Fira%20Code&width=600&height=60">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React.js+Developer;CS+Graduate;Passionate+about+Web+Development&font=Fira%20Code&width=600&height=60">
 </p>
 
-<img align="right" width="300" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
+<!-- Top-right GIF -->
+<p style="float: right; margin-left: 20px; margin-bottom: 0;">
+  <img width="300" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
+</p>
 
 I'm a passionate **Frontend Developer** with a keen interest in **Frontend Engineering**, always eager to learn, build, and deliver high-quality web experiences. Welcome to my GitHub profile!
 
-
+---
 
 ## 👩‍💻 About Me
 
@@ -17,6 +20,8 @@ I'm a passionate **Frontend Developer** with a keen interest in **Frontend Engin
 * 🌱 Continuously learning and exploring new **web development technologies**  
 * 🔍 Open to collaboration on **projects involving frontend development and design**
 
+---
+
 ## 🛠 Skills
 
 * **Languages:** JavaScript, HTML5, CSS3, TypeScript, Python, C++, C#  
@@ -24,7 +29,9 @@ I'm a passionate **Frontend Developer** with a keen interest in **Frontend Engin
 * **Concepts:** OOP, Software Development  
 * **Tools:** Git, GitHub, VS Code, Figma, Microsoft Office, SQL Server
 
-# 💻 Tech Stack
+---
+
+## 💻 Tech Stack
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
