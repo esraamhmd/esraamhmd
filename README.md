@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React.js+Developer;CS+Graduate;Passionate+about+Web+Development&font=Fira%20Code&width=600&height=60">
 </p>
 
-
+<img align="right" width="200" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
 I'm a passionate **Frontend Developer** with a keen interest in **Frontend Engineering**, always eager to learn, build, and deliver high-quality web experiences. Welcome to my GitHub profile!
 
@@ -40,4 +40,4 @@ I'm a passionate **Frontend Developer** with a keen interest in **Frontend Engin
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
-✨ **Always learning, building, and improving 🚀**   
+✨ **Always learning, building, and improving 🚀**   theris hozntal line under about pleaes want hos width more shrt 
