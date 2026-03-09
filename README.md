@@ -6,6 +6,8 @@
 
 <img align="right" width="300" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
+<hr width="150" align="left" style="border:1px solid #ccc;margin-top:0;margin-bottom:20px;">
+
 I'm a passionate **Frontend Developer** with a keen interest in **Frontend Engineering**. Welcome to my GitHub profile!
 
 ## 👩‍💻 About Me
