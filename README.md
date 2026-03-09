@@ -6,23 +6,23 @@
 
 <img align="right" width="300" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
-I'm a passionate **Frontend Developer** with a keen interest in **Frontend Engineering**. Welcome to my GitHub profile!
+I'm a passionate **Frontend Developer** with a keen interest in **Frontend Engineering**, always eager to learn, build, and deliver high-quality web experiences. Welcome to my GitHub profile!
 
 <!-- Short line above About Me -->
 <hr width="120" align="left" style="border:1px solid #ccc;margin-top:10px;margin-bottom:15px;">
 
 ## 👩‍💻 About Me
 
-* 🎓 Frontend Developer | React.js | CS Graduate
-* 💼 Actively seeking **Frontend internships**
-* 🌱 Currently learning **TypeScript, Redux Toolkit, Tailwind CSS**
-* 🤝 Open to collaboration on **Frontend Projects**
+* 🎓 Frontend Developer | React.js | CS Graduate  
+* 💼 Actively seeking **internships in Frontend Engineering** to apply and expand my skills  
+* 🌱 Continuously learning and exploring new **web development technologies**  
+* 🔍 Open to collaboration on **projects involving frontend development and design**
 
 ## 🛠 Skills
 
-* **Languages:** JavaScript, HTML5, CSS3, TypeScript, Python, C++, C#
-* **Frameworks/Libraries:** React.js, Redux Toolkit, Tailwind CSS, Material UI, Bootstrap
-* **Concepts:** OOP, Software Development
+* **Languages:** JavaScript, HTML5, CSS3, TypeScript, Python, C++, C#  
+* **Frameworks/Libraries:** React.js, Redux Toolkit, Tailwind CSS, Material UI, Bootstrap  
+* **Concepts:** OOP, Software Development  
 * **Tools:** Git, GitHub, VS Code, Figma, Microsoft Office, SQL Server
 
 # 💻 Tech Stack
