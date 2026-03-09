@@ -9,7 +9,7 @@
 I'm a passionate Frontend Developer with a keen interest in Frontend Engineering. Welcome to my GitHub profile!
 
 
-🎓 **Computer Science Graduate** - Faculty of Computers and Artificial Intelligence
+
 
 
 
