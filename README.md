@@ -1,16 +1,11 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/> Hi there, I'm Esraa Mahmoud! 👋
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/> Hi there, I'm Esraa Mahmoud! # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/> 
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React.js+Developer;CS+Graduate;Passionate+about+Web+Development&font=Fira%20Code&width=600&height=60&color=FF69B4&vCenter=true&size=22">
-      </td>
-      <td>
-        <img align="right" width="150" src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif">
-      </td>
-    </tr>
-  </table>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React.js+Developer;CS+Graduate;Passionate+about+Web+Development&font=Fira%20Code&width=600&height=60&color=FF69B4&vCenter=true&size=22">
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="150">
 </div>
 
 <img align="right" width="100" src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif">
@@ -21,7 +16,7 @@ Welcome to my GitHub profile! 🚀
 
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> 👩‍💻 About Me
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">  About Me
 
 * 🎓 Frontend Developer | React.js | CS Graduate  
 * 💼 Actively seeking **internships in Frontend Engineering** to apply and expand my skills  
@@ -39,7 +34,7 @@ Welcome to my GitHub profile! 🚀
 
 ---
 
-## <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="50"> 💻 Tech Stack
+## <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="50">  Tech Stack
 
 <div align="center">
 
@@ -73,7 +68,3 @@ Welcome to my GitHub profile! 🚀
 
 ✨ **Always learning, building, and improving 🚀**
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=esraamahmoud&label=Profile%20Views&color=ff69b4&style=flat" alt="Profile Views"/>
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="100">
-</div>
