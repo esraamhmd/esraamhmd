@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/> Hi there, I'm Esraa Mahmoud! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
+#  Hi there, I'm Esraa Mahmoud! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
 
 <div align="left">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React.js+Developer;CS+Graduate;Passionate+about+Web+Development&font=Fira%20Code&width=600&height=60&color=FF69B4&vCenter=true&size=22">
