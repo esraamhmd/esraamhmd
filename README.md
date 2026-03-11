@@ -1,6 +1,6 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/> Hi there, I'm Esraa Mahmoud! # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/> 
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/> Hi there, I'm Esraa Mahmoud!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/> 
 
-<div align="center">
+<div align="left">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React.js+Developer;CS+Graduate;Passionate+about+Web+Development&font=Fira%20Code&width=600&height=60&color=FF69B4&vCenter=true&size=22">
 </div>
 
@@ -59,9 +59,9 @@ Welcome to my GitHub profile! 🚀
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200">
-  <img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" width="200">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100">
+  <img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" width="100">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100">
 </div>
 
 ---
