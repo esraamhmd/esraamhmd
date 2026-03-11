@@ -5,7 +5,20 @@
 </p>
 
 <img align="right" width="100" src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif">
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React.js+Developer;CS+Graduate;Passionate+about+Web+Development&font=Fira%20Code&width=600&height=60&color=FF69B4&vCenter=true&size=22">
+      </td>
+      <td>
+        <img align="right" width="150" src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif">
+      </td>
+    </tr>
+  </table>
+</div>
 
+<img align="right" width="100" src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif">
 I'm a passionate Frontend Developer with a keen interest in Frontend Engineering. 💻✨
 🎓 Computer Science Graduate from the Faculty of Computers and Artificial Intelligence, Modern Technology and Information University (MTI).
 Welcome to my GitHub profile! 🚀
