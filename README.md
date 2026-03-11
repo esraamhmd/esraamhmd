@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/> Hi there, I'm Esraa Mahmoud!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/> 
+Hi there, I'm Esraa Mahmoud!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/> 
 
 <div align="left">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React.js+Developer;CS+Graduate;Passionate+about+Web+Development&font=Fira%20Code&width=600&height=60&color=FF69B4&vCenter=true&size=22">
@@ -25,7 +25,7 @@ Welcome to my GitHub profile! 🚀
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50"> 🛠 Skills
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50"> Skills
 
 * **Languages:** JavaScript, HTML5, CSS3, TypeScript, Python, C++, C#  
 * **Frameworks/Libraries:** React.js, Redux Toolkit, Tailwind CSS, Material UI, Bootstrap  
@@ -59,9 +59,8 @@ Welcome to my GitHub profile! 🚀
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100">
-  <img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" width="100">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400">
+  
 </div>
 
 ---
