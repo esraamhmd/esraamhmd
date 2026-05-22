@@ -25,7 +25,7 @@ Welcome to my GitHub profile! 🚀
 
 ---
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50"> Skills
-* **Languages:** JavaScript, HTML5, CSS3, TypeScript, Python, C++, C#  
+* **Languages:** JavaScript, HTML5, CSS3, TypeScript, Python, C++
 * **Frameworks/Libraries:** React.js, Redux Toolkit, Tailwind CSS, Material UI, Bootstrap, Next.js  
 * **Backend & APIs:** Node.js, Express.js, RESTful APIs  
 * **Databases:** MongoDB, SQL Server  
