@@ -28,7 +28,7 @@ Welcome to my GitHub profile! 🚀
 * **Languages:** JavaScript, HTML5, CSS3, TypeScript, Python, C++
 * **Frameworks/Libraries:** React.js, Redux Toolkit, Tailwind CSS, Material UI, Bootstrap, Next.js  
 * **Backend & APIs:** Node.js, Express.js, RESTful APIs  
-* **Databases:** MongoDB, SQL Server  
+* **Databases:** MongoDB 
 * **Testing & Automation:** Jest, Playwright  
 * **Concepts:** OOP, Software Development  
 * **Tools & DevOps:** Git, GitHub, Docker, AWS, VS Code, Figma, Microsoft Office  
@@ -45,6 +45,7 @@ Welcome to my GitHub profile! 🚀
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/redux%20toolkit-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
