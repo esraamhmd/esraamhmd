@@ -107,10 +107,11 @@ Computer Science and AI graduate from **MTI**, top of my class, passionate about
 
 | | |
 |---|---|
-| **Full-stack apps** | Next.js, React, Node.js and Express with MongoDB or Supabase behind them |
-| **APIs and state** | RESTful APIs, Redux Toolkit and TanStack Query, validated with Zod and called through Axios |
-| **Accessible interfaces** | Responsive UIs with Tailwind CSS, Material UI and Bootstrap, tuned for speed, SEO and contrast |
-| **Testing and delivery** | Unit and end-to-end tests with Jest and Playwright, shipped with Docker |
+| **Full-stack** | Build modern full-stack web applications with Next.js, React.js, Node.js, and real databases |
+| **Quality** | Focus on clean code, performance, accessibility, SEO, and great user experience across every feature |
+| **APIs and state** | Integrate RESTful APIs and manage state with Redux Toolkit and TanStack Query |
+| **Interfaces** | Build responsive, accessible UIs using Material UI, Tailwind CSS, and Bootstrap |
+| **Testing** | Test applications with Playwright and Jest - unit and end-to-end testing |
 
 ---
 
