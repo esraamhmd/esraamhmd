@@ -1,10 +1,10 @@
 <!-- Header: deep pink animated banner -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:c2187a,45:e91e8c,100:ff4fa3&height=280&section=header&text=Esraa%20Mahmoud&fontSize=72&fontColor=ffffff&fontAlignY=40&stroke=ffffff&strokeWidth=1&animation=twinkling&desc=Full-Stack%20Engineer%20%7C%20Next.js%20%7C%20React%20%7C%20Node.js&descSize=22&descAlignY=64" alt="Esraa Mahmoud, Full-Stack Engineer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:c2187a,45:e91e8c,100:ff4fa3&height=200&section=header&animation=twinkling" alt="Esraa Mahmoud, Full-Stack Engineer" />
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fredoka&weight=600&size=36&duration=2200&pause=100000&color=FF4FA3&center=false&vCenter=true&repeat=false&width=460&height=64&lines=Hi+there%2C+I'm+Esraa+Mahmoud" alt="Hi there, I'm Esraa Mahmoud" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fredoka&weight=600&size=46&duration=2200&pause=100000&color=FF4FA3&center=false&vCenter=true&repeat=false&width=590&height=80&lines=Hi+there%2C+I'm+Esraa+Mahmoud" alt="Hi there, I'm Esraa Mahmoud" />
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="48" alt="Waving hand" />
 </h1>
 
@@ -42,8 +42,8 @@ Computer Science and AI graduate from **MTI**, top of my class, passionate about
 - <img src="https://img.shields.io/badge/Freelance-e91e8c?style=flat-square" alt="Freelance" /> Developer delivering responsive, user-focused web solutions
 - <img src="https://img.shields.io/badge/Ex--Mentee%20at%20Deloitte-ff7ab8?style=flat-square" alt="Ex-Mentee at Deloitte" /> NextStep Mentorship Program (Deloitte Innovation Hub)
 - <img src="https://img.shields.io/badge/Ex--Trainee%20at%20ITI-c2187a?style=flat-square" alt="Ex-Trainee at ITI" /> React.js Summer Code Camp
-- $\color{#ff4fa3}{\textsf{\textbf{Courses at Route Academy:}}}$ Frontend Development Diploma and Computer Science Diploma
-- $\color{#ff4fa3}{\textsf{\textbf{Looking for:}}}$ a **full-stack or frontend role** to build innovative web products
+- <img src="https://img.shields.io/badge/Courses%20at%20Route%20Academy-e91e8c?style=flat-square" alt="Courses at Route Academy" /> Frontend Development Diploma and Computer Science Diploma
+- <img src="https://img.shields.io/badge/Looking%20for-ff4fa3?style=flat-square" alt="Looking for" /> a **full-stack, frontend or backend role** to build innovative web products
 
 <div align="center">
 
@@ -121,34 +121,44 @@ Computer Science and AI graduate from **MTI**, top of my class, passionate about
     <td width="50%" valign="top">
       <h3>MotorSync ERP Dashboard</h3>
       <img src="https://img.shields.io/badge/Fullstack-ff4fa3?style=flat-square" alt="Fullstack" />
-      <p>Car parts factory ERP dashboard with charts, bilingual Arabic (RTL) and English (LTR), and server-side API routes so no database keys reach the browser.</p>
+      <p>A full-stack car parts factory ERP dashboard with bilingual Arabic/English support (RTL/LTR), admin-protected CRUD operations, real-time analytics, and 20+ management modules covering employees, inventory, orders, machines, maintenance, quality control, payroll, and more, all backed by a live Supabase database.</p>
       <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-        <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Tailwind%20CSS-06b6d4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-        <img src="https://img.shields.io/badge/Recharts-8884d8?style=flat-square" alt="Recharts" />
         <img src="https://img.shields.io/badge/Supabase-3ecf8e?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169e1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/Tailwind%20CSS-06b6d4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb" alt="React" />
+        <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Recharts-8884d8?style=flat-square" alt="Recharts" />
+        <img src="https://img.shields.io/badge/Zod-3068b7?style=flat-square&logo=zod&logoColor=white" alt="Zod" />
+        <img src="https://img.shields.io/badge/React%20Icons-e91e63?style=flat-square&logo=react&logoColor=white" alt="React Icons" />
       </p>
       <a href="https://motorsync.vercel.app"><img src="https://img.shields.io/badge/Live%20App-ff4fa3?style=flat-square&logo=vercel&logoColor=white" alt="Live app" /></a>
     </td>
     <td width="50%" valign="top">
       <h3>LuxStay - Hotel Booking Website</h3>
       <img src="https://img.shields.io/badge/Fullstack-ff4fa3?style=flat-square" alt="Fullstack" />
-      <p>Hotel booking website on the Next.js App Router. Double bookings are blocked by one atomic SQL insert, and the site scores 100 on all four Lighthouse categories.</p>
+      <p>Full-stack luxury hotel booking platform with real-time room availability, guest-aware pricing, double-booking prevention, secure Stripe payments, Resend email notifications, guest reviews, Cloudinary image optimization, Neon PostgreSQL database, and responsive design.</p>
       <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-        <img src="https://img.shields.io/badge/Tailwind%20CSS-06b6d4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-        <img src="https://img.shields.io/badge/Redux-764abc?style=flat-square&logo=redux&logoColor=white" alt="Redux" />
+        <img src="https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169e1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/Neon-00e599?style=flat-square&logo=neon&logoColor=black" alt="Neon" />
+        <img src="https://img.shields.io/badge/Stripe-635bff?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" />
+        <img src="https://img.shields.io/badge/Resend-000000?style=flat-square&logo=resend&logoColor=white" alt="Resend" />
         <img src="https://img.shields.io/badge/Cloudinary-3448c5?style=flat-square&logo=cloudinary&logoColor=white" alt="Cloudinary" />
-        <img src="https://img.shields.io/badge/Lighthouse-100-f44b21?style=flat-square&logo=lighthouse&logoColor=white" alt="Lighthouse 100" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/React.js-20232a?style=flat-square&logo=react&logoColor=61dafb" alt="React.js" />
+        <img src="https://img.shields.io/badge/Tailwind%20CSS-06b6d4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+        <img src="https://img.shields.io/badge/Redux%20Toolkit-764abc?style=flat-square&logo=redux&logoColor=white" alt="Redux Toolkit" />
       </p>
+      <a href="https://luxstay-hotel-website.vercel.app/"><img src="https://img.shields.io/badge/Live%20App-ff4fa3?style=flat-square&logo=vercel&logoColor=white" alt="Live app" /></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>ShopNest - E-commerce App</h3>
       <img src="https://img.shields.io/badge/Frontend-ff7ab8?style=flat-square" alt="Frontend" />
-      <p>A responsive e-commerce web app built completely from scratch with React, TypeScript and Redux Toolkit. Features smart search, mega menus, cart, wishlist, full checkout, login and signup, an OpenStreetMap delivery picker, an auto-playing hero banner and full mobile responsiveness.</p>
+      <p>A responsive e-commerce web app built completely from scratch with React, TypeScript, and Redux Toolkit. Features smart search, mega menus, cart, wishlist, full checkout, login/signup, OpenStreetMap delivery picker, auto-playing hero banner, and full mobile responsiveness.</p>
       <p>
         <img src="https://img.shields.io/badge/React.js-20232a?style=flat-square&logo=react&logoColor=61dafb" alt="React.js" />
         <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -164,7 +174,7 @@ Computer Science and AI graduate from **MTI**, top of my class, passionate about
     <td width="50%" valign="top">
       <h3>Payzo - Banking System App</h3>
       <img src="https://img.shields.io/badge/Fullstack-ff4fa3?style=flat-square" alt="Fullstack" />
-      <p>A full-stack banking web app with secure JWT auth, instant money transfers, real-time balance, paginated transaction history, spending charts, an admin panel and a MongoDB Atlas backend.</p>
+      <p>A full-stack banking web app with secure JWT auth, instant money transfers, real-time balance, paginated transaction history, spending charts, admin panel, and MongoDB Atlas backend.</p>
       <p>
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
         <img src="https://img.shields.io/badge/Express.js-404d59?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
@@ -181,6 +191,7 @@ Computer Science and AI graduate from **MTI**, top of my class, passionate about
         <img src="https://img.shields.io/badge/bcryptjs-8e8e8e?style=flat-square" alt="bcryptjs" />
         <img src="https://img.shields.io/badge/Recharts-8884d8?style=flat-square" alt="Recharts" />
       </p>
+      <a href="https://github.com/esraamhmd/Payzo-BankSystem"><img src="https://img.shields.io/badge/GitHub-ff4fa3?style=flat-square&logo=github&logoColor=white" alt="GitHub repository" /></a>
     </td>
   </tr>
 </table>
