@@ -24,13 +24,9 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="44" align="absmiddle" alt=""> <img src="https://readme-typing-svg.herokuapp.com?font=Fredoka&weight=600&size=30&duration=1600&pause=100000&color=FF4FA3&vCenter=true&repeat=false&width=360&height=48&lines=About+Me" align="absmiddle" alt="About Me">
 
-<img align="right" width="100" src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" alt="Animated girl on a laptop" />
+
 
 Computer Science and AI graduate from **MTI**, top of my class, passionate about **full-stack development**. I build modern web applications with **Next.js, React, Node.js and real databases**, with a focus on clean code, performance, accessibility, SEO and a great user experience in every feature.
-
-<div align="center">
-  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="150" alt="Animated girl on a laptop" />
-</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+and+AI+graduate+from+MTI;Top+of+my+class%2C+passionate+about+full-stack+development;I+build+apps+with+Next.js%2C+React+and+Node.js;Real+databases%2C+clean+code%2C+fast+and+accessible+UIs&font=Fredoka&weight=500&width=820&height=60&color=FF7AB8&center=true&vCenter=true&size=22&duration=3200&pause=900" alt="Computer Science and AI graduate from MTI who builds full-stack apps" />
@@ -244,7 +240,7 @@ Computer Science and AI graduate from **MTI**, top of my class, passionate about
 
 **Modern University for Technology and Information (MTI)** · Faculty of Computers and Artificial Intelligence · Computer Science Department
 
-- Grade: **A** ·
+- Grade: **A** · GPA **3.5 / 4.0**
 - Graduation Project: **A+**
 - Among the top students in my class
 - Graduation project: **DermaCheck**, an intelligent image-based skin cancer detection system. A Flutter app (iOS and Android) with a CNN ensemble of MobileNetV3, ResNet50 and DenseNet121 reaching 96.1% accuracy.
