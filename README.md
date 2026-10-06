@@ -244,7 +244,7 @@ Computer Science and AI graduate from **MTI**, top of my class, passionate about
 
 **Modern University for Technology and Information (MTI)** · Faculty of Computers and Artificial Intelligence · Computer Science Department
 
-- Grade: **A** · GPA **3.5 / 4.0**
+- Grade: **A** ·
 - Graduation Project: **A+**
 - Among the top students in my class
 - Graduation project: **DermaCheck**, an intelligent image-based skin cancer detection system. A Flutter app (iOS and Android) with a CNN ensemble of MobileNetV3, ResNet50 and DenseNet121 reaching 96.1% accuracy.
