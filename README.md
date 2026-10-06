@@ -4,7 +4,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fredoka&weight=600&size=36&duration=2200&pause=100000&color=FF4FA3&center=false&vCenter=true&repeat=false&width=520&height=64&lines=Hi+there%2C+I'm+Esraa+Mahmoud" alt="Hi there, I'm Esraa Mahmoud" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fredoka&weight=600&size=36&duration=2200&pause=100000&color=FF4FA3&center=false&vCenter=true&repeat=false&width=460&height=64&lines=Hi+there%2C+I'm+Esraa+Mahmoud" alt="Hi there, I'm Esraa Mahmoud" />
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="48" alt="Waving hand" />
 </h1>
 
@@ -39,15 +39,16 @@ Computer Science and AI graduate from **MTI**, top of my class, passionate about
 
 <br>
 
-- <img src="https://img.shields.io/badge/Experience-ff4fa3?style=flat-square" alt="Experience" /> <img src="https://img.shields.io/badge/Intern-e91e8c?style=flat-square" alt="Intern" /> Software Engineer Intern at **SpaceTech**, working in a team with GitHub Organizations and Jira
+- <img src="https://img.shields.io/badge/Intern%20at%20SpaceTech-ff4fa3?style=flat-square" alt="Intern at SpaceTech" /> Software Engineer Intern, working in a team with GitHub Organizations and Jira
 - <img src="https://img.shields.io/badge/Freelance-e91e8c?style=flat-square" alt="Freelance" /> Developer delivering responsive, user-focused web solutions
-- <img src="https://img.shields.io/badge/Mentee-ff7ab8?style=flat-square" alt="Mentee" /> Deloitte **NextStep Mentorship Program** (Deloitte Innovation Hub)
-- <img src="https://img.shields.io/badge/Training-c2187a?style=flat-square" alt="Training" /> <img src="https://img.shields.io/badge/Course-ff7ab8?style=flat-square" alt="Course" /> **ITI** (React.js) and **Route Academy** (Frontend and Computer Science diplomas)
+- <img src="https://img.shields.io/badge/Mentee%20at%20Deloitte-ff7ab8?style=flat-square" alt="Mentee at Deloitte" /> **NextStep Mentorship Program** (Deloitte Innovation Hub)
+- <img src="https://img.shields.io/badge/Training%20at%20ITI-c2187a?style=flat-square" alt="Training at ITI" /> React.js Summer Code Camp
+- <img src="https://img.shields.io/badge/Courses%20at%20Route%20Academy-e91e8c?style=flat-square" alt="Courses at Route Academy" /> Frontend and Computer Science diplomas
 - <img src="https://img.shields.io/badge/Looking%20for-ff4fa3?style=flat-square" alt="Looking for" /> A **full-stack or frontend role** to build innovative web products
 
 <div align="center">
 
-| <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" width="44" alt="Projects" /> | <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9e0/512.gif" width="44" alt="Skills" /> | <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c5/512.gif" width="44" alt="Certificates" /> | <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2b50/512.gif" width="44" alt="GPA" /> |
+| <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" width="44" alt="Projects" /> | <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9e0/512.gif" width="44" alt="Skills" /> | <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.gif" width="44" alt="Certificates" /> | <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2b50/512.gif" width="44" alt="GPA" /> |
 |:---:|:---:|:---:|:---:|
 | **20+** | **30+** | **10+** | **3.5 / 4.0** |
 | Projects | Skills | Certificates | GPA at MTI |
@@ -187,10 +188,10 @@ Computer Science and AI graduate from **MTI**, top of my class, passionate about
 
 ---
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bc/512.gif" width="44" align="absmiddle" alt=""> <img src="https://readme-typing-svg.herokuapp.com?font=Fredoka&weight=600&size=30&duration=1600&pause=100000&color=FF4FA3&vCenter=true&repeat=false&width=360&height=48&lines=Experience" align="absmiddle" alt="Experience">
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" width="44" align="absmiddle" alt=""> <img src="https://readme-typing-svg.herokuapp.com?font=Fredoka&weight=600&size=30&duration=1600&pause=100000&color=FF4FA3&vCenter=true&repeat=false&width=360&height=48&lines=Experience" align="absmiddle" alt="Experience">
 
 <details open>
-<summary><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" width="30" align="absmiddle" alt="" /> <img src="https://img.shields.io/badge/Experience-ff4fa3?style=flat-square" alt="Experience" /> <img src="https://img.shields.io/badge/Intern-e91e8c?style=flat-square" alt="Intern" /> <b>Software Engineer Intern, SpaceTech</b> &nbsp;·&nbsp; Jul 2026 – Sep 2026</summary>
+<summary><img src="https://img.shields.io/badge/Experience-ff4fa3?style=flat-square" alt="Experience" /> <img src="https://img.shields.io/badge/Intern-e91e8c?style=flat-square" alt="Intern" /> <b>Software Engineer Intern, SpaceTech</b> &nbsp;·&nbsp; Jul 2026 – Sep 2026</summary>
 
 <br>
 
@@ -211,7 +212,7 @@ Computer Science and AI graduate from **MTI**, top of my class, passionate about
 </details>
 
 <details open>
-<summary><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" width="30" align="absmiddle" alt="" /> <img src="https://img.shields.io/badge/Freelance-e91e8c?style=flat-square" alt="Freelance" /> <b>Freelance Frontend Developer</b> &nbsp;·&nbsp; Aug 2026 – Present</summary>
+<summary><img src="https://img.shields.io/badge/Freelance-e91e8c?style=flat-square" alt="Freelance" /> <b>Freelance Frontend Developer</b> &nbsp;·&nbsp; Aug 2026 – Present</summary>
 
 <br>
 
