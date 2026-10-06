@@ -38,12 +38,12 @@ Computer Science and AI graduate from **MTI**, top of my class, passionate about
 
 <br>
 
-- **Experience · Intern at SpaceTech:** Software Engineer Intern, working in a team with GitHub Organizations and Jira
-- **Freelance:** Developer delivering responsive, user-focused web solutions
-- **Mentee at Deloitte:** NextStep Mentorship Program (Deloitte Innovation Hub)
-- **Training at ITI:** React.js Summer Code Camp
-- **Courses at Route Academy:** Frontend Development Diploma and Computer Science Diploma
-- **Looking for:** a **full-stack or frontend role** to build innovative web products
+- $\color{#ff4fa3}{\textsf{\textbf{Ex-Intern at SpaceTech:}}}$ Software Engineer Intern, working in a team with GitHub Organizations and Jira
+- $\color{#ff4fa3}{\textsf{\textbf{Freelance:}}}$ Developer delivering responsive, user-focused web solutions
+- $\color{#ff4fa3}{\textsf{\textbf{Ex-Mentee at Deloitte:}}}$ NextStep Mentorship Program (Deloitte Innovation Hub)
+- $\color{#ff4fa3}{\textsf{\textbf{Ex-Trainee at ITI:}}}$ React.js Summer Code Camp
+- $\color{#ff4fa3}{\textsf{\textbf{Courses at Route Academy:}}}$ Frontend Development Diploma and Computer Science Diploma
+- $\color{#ff4fa3}{\textsf{\textbf{Looking for:}}}$ a **full-stack or frontend role** to build innovative web products
 
 <div align="center">
 
@@ -190,7 +190,7 @@ Computer Science and AI graduate from **MTI**, top of my class, passionate about
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" width="44" align="absmiddle" alt=""> <img src="https://readme-typing-svg.herokuapp.com?font=Fredoka&weight=600&size=30&duration=1600&pause=100000&color=FF4FA3&vCenter=true&repeat=false&width=360&height=48&lines=Experience" align="absmiddle" alt="Experience">
 
 <details open>
-<summary><img src="https://img.shields.io/badge/Experience-ff4fa3?style=flat-square" alt="Experience" /> <img src="https://img.shields.io/badge/Intern-e91e8c?style=flat-square" alt="Intern" /> <b>Software Engineer Intern, SpaceTech</b> &nbsp;·&nbsp; Jul 2026 – Sep 2026</summary>
+<summary><img src="https://img.shields.io/badge/Ex--Intern-ff4fa3?style=flat-square" alt="Ex-Intern" /> <b>Software Engineer Intern, SpaceTech</b> &nbsp;·&nbsp; Jul 2026 – Sep 2026</summary>
 
 <br>
 
@@ -247,7 +247,7 @@ Computer Science and AI graduate from **MTI**, top of my class, passionate about
 
 
 <details open>
-<summary><img src="https://img.shields.io/badge/Mentorship%20Program-ff4fa3?style=flat-square" alt="Mentorship Program" /> <img src="https://img.shields.io/badge/Mentee-ff7ab8?style=flat-square" alt="Mentee" /> <b>NextStep Mentorship Program</b> &nbsp;·&nbsp; Aug 2026 · 1 Month</summary>
+<summary><img src="https://img.shields.io/badge/Mentorship%20Program-ff4fa3?style=flat-square" alt="Mentorship Program" /> <img src="https://img.shields.io/badge/Ex--Mentee-ff7ab8?style=flat-square" alt="Ex-Mentee" /> <b>NextStep Mentorship Program</b> &nbsp;·&nbsp; Aug 2026 · 1 Month</summary>
 
 <br>
 
@@ -258,7 +258,7 @@ Software Engineering Mentee at Deloitte NextStep Mentorship Program, Deloitte In
 </details>
 
 <details open>
-<summary><img src="https://img.shields.io/badge/Training-e91e8c?style=flat-square" alt="Training" /> <b>Summer Code Camp - Web Development using ReactJS</b> &nbsp;·&nbsp; Jul 2024 – Sep 2024</summary>
+<summary><img src="https://img.shields.io/badge/Ex--Trainee-e91e8c?style=flat-square" alt="Ex-Trainee" /> <b>Summer Code Camp - Web Development using ReactJS</b> &nbsp;·&nbsp; Jul 2024 – Sep 2024</summary>
 
 <br>
 
