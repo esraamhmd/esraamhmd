@@ -1,11 +1,16 @@
-<!-- Header: animated pink gradient banner -->
+<!-- Header: deep pink animated banner -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:ffc2e0,35:ff7ab8,70:ff4fa3,100:c2187a&height=260&section=header&text=Esraa%20Mahmoud&fontSize=64&fontColor=ffffff&fontAlignY=42&animation=twinkling&desc=Full-Stack%20Engineer%20%7C%20Next.js%20%7C%20React%20%7C%20Node.js&descSize=20&descAlignY=66" alt="Esraa Mahmoud, Full-Stack Engineer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:c2187a,45:e91e8c,100:ff4fa3&height=280&section=header&text=Esraa%20Mahmoud&fontSize=72&fontColor=ffffff&fontAlignY=40&stroke=ffffff&strokeWidth=1&animation=twinkling&desc=Full-Stack%20Engineer%20%7C%20Next.js%20%7C%20React%20%7C%20Node.js&descSize=22&descAlignY=64" alt="Esraa Mahmoud, Full-Stack Engineer" />
 </div>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fredoka&weight=600&size=38&duration=2200&pause=100000&color=FF4FA3&center=true&vCenter=true&repeat=false&width=680&height=70&lines=Hi+there%2C+I'm+Esraa+Mahmoud" alt="Hi there, I'm Esraa Mahmoud" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="48" alt="Waving hand" />
+</h1>
 
 <div align="center">
   <a href="https://github.com/esraamhmd">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Engineer;Next.js+Developer;React.js+Developer;Node.js+Developer;CS+and+AI+Graduate;Passionate+about+Web+Development&font=Fira%20Code&width=700&height=60&color=FF4FA3&vCenter=true&size=24&duration=2600&pause=800" alt="Typing animation of roles" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Engineer;Next.js+Developer;React.js+Developer;Node.js+Developer;CS+and+AI+Graduate;Passionate+about+Web+Development&font=Fredoka&weight=500&width=700&height=60&color=FF4FA3&vCenter=true&center=true&size=26&duration=2600&pause=800" alt="Typing animation of roles" />
   </a>
 </div>
 
@@ -18,15 +23,21 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="44" align="absmiddle" alt=""> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=1600&pause=100000&color=FF4FA3&vCenter=true&repeat=false&width=360&height=48&lines=About+Me" align="absmiddle" alt="About Me">
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="44" align="absmiddle" alt=""> <img src="https://readme-typing-svg.herokuapp.com?font=Fredoka&weight=600&size=30&duration=1600&pause=100000&color=FF4FA3&vCenter=true&repeat=false&width=360&height=48&lines=About+Me" align="absmiddle" alt="About Me">
+
+<img align="right" width="100" src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" alt="Animated girl on a laptop" />
+
+Computer Science and AI graduate from **MTI**, top of my class, passionate about **full-stack development**. I build modern web applications with **Next.js, React, Node.js and real databases**, with a focus on clean code, performance, accessibility, SEO and a great user experience in every feature.
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+and+AI+graduate+from+MTI;Top+of+my+class%2C+passionate+about+full-stack+development;I+build+apps+with+Next.js%2C+React+and+Node.js;Real+databases%2C+clean+code%2C+fast+and+accessible+UIs&font=Fira%20Code&width=820&height=60&color=FF7AB8&center=true&vCenter=true&size=19&duration=3200&pause=900" alt="Computer Science and AI graduate from MTI who builds full-stack apps" />
+  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="150" alt="Animated girl on a laptop" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+and+AI+graduate+from+MTI;Top+of+my+class%2C+passionate+about+full-stack+development;I+build+apps+with+Next.js%2C+React+and+Node.js;Real+databases%2C+clean+code%2C+fast+and+accessible+UIs&font=Fredoka&weight=500&width=820&height=60&color=FF7AB8&center=true&vCenter=true&size=22&duration=3200&pause=900" alt="Computer Science and AI graduate from MTI who builds full-stack apps" />
 </div>
 
 <br>
-
-Computer Science and AI graduate from **MTI**, top of my class, passionate about **full-stack development**. I build modern web applications with **Next.js, React, Node.js and real databases**, with a focus on clean code, performance, accessibility, SEO and a great user experience in every feature.
 
 - <img src="https://img.shields.io/badge/Experience-ff4fa3?style=flat-square" alt="Experience" /> Software Engineer Intern at **SpaceTech**, working in a team with GitHub Organizations and Jira
 - <img src="https://img.shields.io/badge/Freelance-e91e8c?style=flat-square" alt="Freelance" /> Developer delivering responsive, user-focused web solutions
@@ -44,9 +55,7 @@ Computer Science and AI graduate from **MTI**, top of my class, passionate about
 
 ---
 
-## <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="44" align="absmiddle" alt=""> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=1600&pause=100000&color=FF4FA3&vCenter=true&repeat=false&width=360&height=48&lines=Tech+Stack" align="absmiddle" alt="Tech Stack">
-
-<div align="center">
+## <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="44" align="absmiddle" alt=""> <img src="https://readme-typing-svg.herokuapp.com?font=Fredoka&weight=600&size=30&duration=1600&pause=100000&color=FF4FA3&vCenter=true&repeat=false&width=360&height=48&lines=Tech+Stack" align="absmiddle" alt="Tech Stack">
 
 **Frontend**<br>
 <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,redux&theme=dark" alt="Frontend technologies" />
@@ -63,8 +72,7 @@ Computer Science and AI graduate from **MTI**, top of my class, passionate about
 **Testing and DevOps**<br>
 <img src="https://skillicons.dev/icons?i=jest,playwright,docker,aws,git,github&theme=dark" alt="Testing and DevOps tools" />
 
-<br>
-
+**Libraries and tools**<br>
 <img src="https://img.shields.io/badge/TanStack%20Query-ff4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack Query" />
 <img src="https://img.shields.io/badge/React%20Router-ca4245?style=for-the-badge&logo=reactrouter&logoColor=white" alt="React Router" />
 <img src="https://img.shields.io/badge/Framer%20Motion-0055ff?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
@@ -74,11 +82,9 @@ Computer Science and AI graduate from **MTI**, top of my class, passionate about
 <img src="https://img.shields.io/badge/Jira-0052cc?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
 <img src="https://img.shields.io/badge/Flutter-02569b?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
 
-</div>
-
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="44" align="absmiddle" alt=""> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=1600&pause=100000&color=FF4FA3&vCenter=true&repeat=false&width=360&height=48&lines=What+I+Do" align="absmiddle" alt="What I Do">
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="44" align="absmiddle" alt=""> <img src="https://readme-typing-svg.herokuapp.com?font=Fredoka&weight=600&size=30&duration=1600&pause=100000&color=FF4FA3&vCenter=true&repeat=false&width=360&height=48&lines=What+I+Do" align="absmiddle" alt="What I Do">
 
 | | |
 |---|---|
@@ -89,7 +95,7 @@ Computer Science and AI graduate from **MTI**, top of my class, passionate about
 
 ---
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="44" align="absmiddle" alt=""> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=1600&pause=100000&color=FF4FA3&vCenter=true&repeat=false&width=420&height=48&lines=Featured+Projects" align="absmiddle" alt="Featured Projects">
+## <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="44" align="absmiddle" alt=""> <img src="https://readme-typing-svg.herokuapp.com?font=Fredoka&weight=600&size=30&duration=1600&pause=100000&color=FF4FA3&vCenter=true&repeat=false&width=420&height=48&lines=Featured+Projects" align="absmiddle" alt="Featured Projects">
 
 <table>
   <tr>
@@ -162,7 +168,7 @@ Computer Science and AI graduate from **MTI**, top of my class, passionate about
 
 ---
 
-## <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="44" align="absmiddle" alt=""> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=1600&pause=100000&color=FF4FA3&vCenter=true&repeat=false&width=360&height=48&lines=Experience" align="absmiddle" alt="Experience">
+## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bc.png?v8" width="40" align="absmiddle" alt=""> <img src="https://readme-typing-svg.herokuapp.com?font=Fredoka&weight=600&size=30&duration=1600&pause=100000&color=FF4FA3&vCenter=true&repeat=false&width=360&height=48&lines=Experience" align="absmiddle" alt="Experience">
 
 <details open>
 <summary><img src="https://img.shields.io/badge/Internship-ff4fa3?style=flat-square" alt="Internship" /> <b>Software Engineer Intern, SpaceTech</b> &nbsp;·&nbsp; Jul 2026 – Sep 2026</summary>
@@ -199,9 +205,7 @@ Computer Science and AI graduate from **MTI**, top of my class, passionate about
 
 ---
 
-## <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="44" align="absmiddle" alt=""> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=1600&pause=100000&color=FF4FA3&vCenter=true&repeat=false&width=360&height=48&lines=My+Background" align="absmiddle" alt="My Background">
-
-<img src="https://img.shields.io/badge/Education-ff4fa3?style=for-the-badge" alt="Education" />
+## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f393.png?v8" width="40" align="absmiddle" alt=""> <img src="https://readme-typing-svg.herokuapp.com?font=Fredoka&weight=600&size=30&duration=1600&pause=100000&color=FF4FA3&vCenter=true&repeat=false&width=360&height=48&lines=Education" align="absmiddle" alt="Education">
 
 <details open>
 <summary><img src="https://img.shields.io/badge/University-ff7ab8?style=flat-square" alt="University" /> <b>Bachelor of Computer Science and AI</b> &nbsp;·&nbsp; Oct 2021 – Jul 2025</summary>
@@ -219,7 +223,7 @@ Computer Science and AI graduate from **MTI**, top of my class, passionate about
 
 ---
 
-## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=1600&pause=100000&color=FF4FA3&vCenter=true&repeat=false&width=560&height=48&lines=My+Professional+Development" alt="My Professional Development">
+## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png?v8" width="40" align="absmiddle" alt=""> <img src="https://readme-typing-svg.herokuapp.com?font=Fredoka&weight=600&size=30&duration=1600&pause=100000&color=FF4FA3&vCenter=true&repeat=false&width=360&height=48&lines=Training" align="absmiddle" alt="Training">
 
 <img src="https://img.shields.io/badge/Training%2C%20Courses%20%26%20Programs-ff4fa3?style=for-the-badge" alt="Training, Courses and Programs" />
 
@@ -292,9 +296,9 @@ Foundational computer science diploma covering core programming concepts, object
 ---
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffc2e0,35:ff7ab8,70:ff4fa3,100:c2187a&height=170&section=footer&text=Thanks%20for%20visiting&fontSize=32&fontColor=ffffff&fontAlignY=62&animation=twinkling" alt="Thanks for visiting" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:c2187a,45:e91e8c,100:ff4fa3&height=170&section=footer&text=Thanks%20for%20visiting&fontSize=32&fontColor=ffffff&fontAlignY=62&animation=twinkling" alt="Thanks for visiting" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Always+learning%2C+building+and+improving;Let's+build+something+great+together&font=Fira%20Code&width=640&height=50&color=FF4FA3&center=true&vCenter=true&size=20&duration=2800&pause=900" alt="Always learning, building and improving" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Always+learning%2C+building+and+improving;Let's+build+something+great+together&font=Fredoka&weight=500&width=640&height=50&color=FF4FA3&center=true&vCenter=true&size=22&duration=2800&pause=900" alt="Always learning, building and improving" />
 </div>
