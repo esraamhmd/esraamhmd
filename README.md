@@ -1,6 +1,6 @@
 <!-- Header: deep pink animated banner -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2a0a1f,50:5a0b3a,100:8a1055&height=240&section=header&text=Esraa%20Mahmoud&fontSize=70&fontColor=ff4fa3&fontAlignY=42&animation=twinkling&desc=Full-Stack%20Engineer%20%7C%20Next.js%20%7C%20React%20%7C%20Node.js&descSize=22&descAlignY=66" alt="Esraa Mahmoud, Full-Stack Engineer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:c2187a,45:e91e8c,100:ff4fa3&height=280&section=header&text=Esraa%20Mahmoud&fontSize=72&fontColor=ffffff&fontAlignY=40&stroke=ffffff&strokeWidth=1&animation=twinkling&desc=Full-Stack%20Engineer%20%7C%20Next.js%20%7C%20React%20%7C%20Node.js&descSize=22&descAlignY=64" alt="Esraa Mahmoud, Full-Stack Engineer" />
 </div>
 
 <h1 align="center">
@@ -24,9 +24,13 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="44" align="absmiddle" alt=""> <img src="https://readme-typing-svg.herokuapp.com?font=Fredoka&weight=600&size=30&duration=1600&pause=100000&color=FF4FA3&vCenter=true&repeat=false&width=360&height=48&lines=About+Me" align="absmiddle" alt="About Me">
 
-
+<img align="right" width="100" src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" alt="Animated girl on a laptop" />
 
 Computer Science and AI graduate from **MTI**, top of my class, passionate about **full-stack development**. I build modern web applications with **Next.js, React, Node.js and real databases**, with a focus on clean code, performance, accessibility, SEO and a great user experience in every feature.
+
+<div align="center">
+  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="150" alt="Animated girl on a laptop" />
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+and+AI+graduate+from+MTI;Top+of+my+class%2C+passionate+about+full-stack+development;I+build+apps+with+Next.js%2C+React+and+Node.js;Real+databases%2C+clean+code%2C+fast+and+accessible+UIs&font=Fredoka&weight=500&width=820&height=60&color=FF7AB8&center=true&vCenter=true&size=22&duration=3200&pause=900" alt="Computer Science and AI graduate from MTI who builds full-stack apps" />
@@ -43,10 +47,10 @@ Computer Science and AI graduate from **MTI**, top of my class, passionate about
 
 <div align="center">
 
-| <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" width="44" alt="Projects" /> | <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9e0/512.gif" width="44" alt="Skills" /> | <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.gif" width="44" alt="Certificates" /> | <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2b50/512.gif" width="44" alt="GPA" /> |
+| <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" width="44" alt="Projects" /> | <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9e0/512.gif" width="44" alt="Skills" /> | <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.gif" width="44" alt="Certificates" /> | <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2b50/512.gif" width="44" alt="Grade" /> |
 |:---:|:---:|:---:|:---:|
-| **20+** | **30+** | **10+** | **3.5 / 4.0** |
-| Projects | Skills | Certificates | GPA at MTI |
+| **20+** | **30+** | **10+** | **A** |
+| Projects | Skills | Certificates | Grade at MTI |
 
 </div>
 
@@ -240,7 +244,7 @@ Computer Science and AI graduate from **MTI**, top of my class, passionate about
 
 **Modern University for Technology and Information (MTI)** · Faculty of Computers and Artificial Intelligence · Computer Science Department
 
-- Grade: **A** · GPA **3.5 / 4.0**
+- Grade: **A**
 - Graduation Project: **A+**
 - Among the top students in my class
 - Graduation project: **DermaCheck**, an intelligent image-based skin cancer detection system. A Flutter app (iOS and Android) with a CNN ensemble of MobileNetV3, ResNet50 and DenseNet121 reaching 96.1% accuracy.
@@ -326,5 +330,5 @@ Foundational computer science diploma covering core programming concepts, object
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Always+learning%2C+building+and+improving;Let's+build+something+great+together&font=Fredoka&weight=500&width=640&height=50&color=FF4FA3&center=true&vCenter=true&size=22&duration=2800&pause=900" alt="Always learning, building and improving" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Always+learning%2C+building+and+improving&font=Fredoka&weight=500&width=640&height=50&color=FF4FA3&center=true&vCenter=true&size=22&duration=2800&pause=900" alt="Always learning, building and improving" />
 </div>
