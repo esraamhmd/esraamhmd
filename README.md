@@ -1,11 +1,11 @@
 <!-- Header: animated twinkling pink gradient banner -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffc2e0,35:ff7ab8,70:ff4fa3,100:c2187a&height=230&section=header&text=Esraa%20Mahmoud&fontSize=60&fontColor=ffffff&fontAlignY=36&animation=twinkling&desc=Full-Stack%20Engineer%20%7C%20Next.js%20%7C%20React%20%7C%20Node.js&descSize=20&descAlignY=58" alt="Esraa Mahmoud, Full-Stack Engineer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:ffc2e0,35:ff7ab8,70:ff4fa3,100:c2187a&height=270&section=header&text=Esraa%20Mahmoud&fontSize=66&fontColor=ffffff&fontAlignY=40&stroke=ffffff&strokeWidth=1&animation=fadeIn&desc=Full-Stack%20Engineer%20%7C%20Next.js%20%7C%20React%20%7C%20Node.js&descSize=20&descAlignY=66" alt="Esraa Mahmoud, Full-Stack Engineer" />
 </div>
 
 <div align="center">
   <a href="https://github.com/esraamhmd">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fredoka&weight=600&size=26&duration=2800&pause=900&color=FF4FA3;FF7AB8;E91E8C;FFA6CF;C2187A&center=true&vCenter=true&width=720&height=56&lines=Full-Stack+Engineer;Next.js+%7C+React+%7C+TypeScript;Node.js+%7C+Express+%7C+REST+APIs;MongoDB+%7C+Supabase;Clean+code%2C+fast+and+accessible" alt="Typing animation of roles and skills" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fredoka&weight=600&size=30&duration=2200&pause=700&color=FF4FA3;FF7AB8;E91E8C;FFA6CF;C2187A&center=true&vCenter=true&width=820&height=64&lines=Hi+there%2C+I'm+Esraa+Mahmoud;Full-Stack+Engineer;Next.js+%7C+React+%7C+TypeScript;Node.js+%7C+Express+%7C+REST+APIs;MongoDB+%7C+Supabase;Clean+code%2C+fast+and+accessible;Open+to+full-stack+and+frontend+roles" alt="Typing animation of roles and skills" />
   </a>
 </div>
 
@@ -18,7 +18,7 @@
 
 ---
 
-## 🌸 <img src="https://readme-typing-svg.herokuapp.com?font=Fredoka&weight=600&size=30&duration=1600&pause=100000&color=FF4FA3&vCenter=true&repeat=false&width=360&height=48&lines=About+Me" align="absmiddle" alt="About Me">
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="44" align="absmiddle" alt=""> <img src="https://readme-typing-svg.herokuapp.com?font=Fredoka&weight=600&size=30&duration=1600&pause=100000&color=FF4FA3&vCenter=true&repeat=false&width=360&height=48&lines=About+Me" align="absmiddle" alt="About Me">
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=0:2a0a1f,50:7a0f4d,100:d81b86&height=150&section=header&text=CS%20%26%20AI%20graduate%20from%20MTI&fontSize=34&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=I%20build%20full-stack%20apps%20with%20Next.js%2C%20React%2C%20Node.js%20and%20real%20databases&descSize=17&descAlignY=66" alt="Computer Science and AI graduate from MTI who builds full-stack apps with Next.js, React, Node.js and real databases" />
@@ -44,7 +44,7 @@ Computer Science and AI graduate from **MTI**, top of my class, passionate about
 
 ---
 
-## 🎀 <img src="https://readme-typing-svg.herokuapp.com?font=Fredoka&weight=600&size=30&duration=1600&pause=100000&color=FF4FA3&vCenter=true&repeat=false&width=360&height=48&lines=Tech+Stack" align="absmiddle" alt="Tech Stack">
+## <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="44" align="absmiddle" alt=""> <img src="https://readme-typing-svg.herokuapp.com?font=Fredoka&weight=600&size=30&duration=1600&pause=100000&color=FF4FA3&vCenter=true&repeat=false&width=360&height=48&lines=Tech+Stack" align="absmiddle" alt="Tech Stack">
 
 <div align="center">
 
@@ -78,7 +78,7 @@ Computer Science and AI graduate from **MTI**, top of my class, passionate about
 
 ---
 
-## 💖 <img src="https://readme-typing-svg.herokuapp.com?font=Fredoka&weight=600&size=30&duration=1600&pause=100000&color=FF4FA3&vCenter=true&repeat=false&width=360&height=48&lines=What+I+Do" align="absmiddle" alt="What I Do">
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="44" align="absmiddle" alt=""> <img src="https://readme-typing-svg.herokuapp.com?font=Fredoka&weight=600&size=30&duration=1600&pause=100000&color=FF4FA3&vCenter=true&repeat=false&width=360&height=48&lines=What+I+Do" align="absmiddle" alt="What I Do">
 
 | | |
 |---|---|
@@ -89,7 +89,7 @@ Computer Science and AI graduate from **MTI**, top of my class, passionate about
 
 ---
 
-## 🪷 <img src="https://readme-typing-svg.herokuapp.com?font=Fredoka&weight=600&size=30&duration=1600&pause=100000&color=FF4FA3&vCenter=true&repeat=false&width=420&height=48&lines=Featured+Projects" align="absmiddle" alt="Featured Projects">
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="44" align="absmiddle" alt=""> <img src="https://readme-typing-svg.herokuapp.com?font=Fredoka&weight=600&size=30&duration=1600&pause=100000&color=FF4FA3&vCenter=true&repeat=false&width=420&height=48&lines=Featured+Projects" align="absmiddle" alt="Featured Projects">
 
 <table>
   <tr>
@@ -162,7 +162,7 @@ Computer Science and AI graduate from **MTI**, top of my class, passionate about
 
 ---
 
-## 💗 <img src="https://readme-typing-svg.herokuapp.com?font=Fredoka&weight=600&size=30&duration=1600&pause=100000&color=FF4FA3&vCenter=true&repeat=false&width=360&height=48&lines=Experience" align="absmiddle" alt="Experience">
+## <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="44" align="absmiddle" alt=""> <img src="https://readme-typing-svg.herokuapp.com?font=Fredoka&weight=600&size=30&duration=1600&pause=100000&color=FF4FA3&vCenter=true&repeat=false&width=360&height=48&lines=Experience" align="absmiddle" alt="Experience">
 
 <details open>
 <summary><b>🦩 Software Engineer Intern, SpaceTech</b> &nbsp;·&nbsp; Jul 2026 – Sep 2026</summary>
