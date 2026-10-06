@@ -10,12 +10,6 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=esraamhmd&label=Profile+views&color=ff4fa3&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Open%20to-Full--Stack%20%26%20Frontend%20roles-34d399?style=for-the-badge" alt="Open to full-stack and frontend roles" />
-  <img src="https://img.shields.io/badge/Based%20in-Egypt-9b7bff?style=for-the-badge" alt="Based in Egypt" />
-</p>
-
-<p align="center">
   <a href="https://esraamhmd-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-ff4fa3?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/esraamhmd"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:esraammohamedd@gmail.com"><img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -167,38 +161,62 @@ Computer Science and AI graduate from **MTI**, top of my class, passionate about
 
 ---
 
-## 🎓 Education and Training
+## 🎓 Education
 
-| Period | Program | Where |
-|---|---|---|
-| 2021 – 2025 | **B.Sc. Computer Science and AI** · GPA 3.5/4.0 · Grade A · Graduation project A+ | Modern University for Technology and Information (MTI) |
-| Aug 2026 | **NextStep Mentorship Program** · Software Engineering mentee | Deloitte Innovation Hub |
-| Jul – Sep 2024 | **Summer Code Camp** · Web development with ReactJS | Information Technology Institute (ITI) |
-| Jan – Apr 2024 | **Frontend Diploma** · React.js, Redux, TypeScript, Axios | Route Academy |
-| Jul – Nov 2023 | **Computer Science Diploma** · Java, C++, OOP, problem solving | Route Academy |
+<details open>
+<summary><b>🟢 Bachelor of Computer Science and AI</b> &nbsp;·&nbsp; Oct 2021 – Jul 2025</summary>
 
----
+**Modern University for Technology and Information (MTI)**, Faculty of Computers and Artificial Intelligence
 
-## 📊 GitHub Stats
+- GPA **3.5 / 4.0** · Grade **A** · Graduation project **A+**
+- Among the top students in my class
+- Graduation project: **DermaCheck**, an intelligent image-based skin cancer detection system (Flutter app with a CNN ensemble reaching 96.1% accuracy)
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=esraamhmd&show_icons=true&theme=radical&hide_border=true&bg_color=0b0714&title_color=ff4fa3&icon_color=2dd4ee&text_color=f5f0fb" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esraamhmd&layout=compact&theme=radical&hide_border=true&bg_color=0b0714&title_color=9b7bff&text_color=f5f0fb" alt="Top languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=esraamhmd&theme=radical&hide_border=true&background=0b0714&ring=ff4fa3&fire=fbbf24&currStreakLabel=34d399" alt="GitHub streak" />
-</div>
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=esraamhmd&bg_color=0b0714&color=ff4fa3&line=9b7bff&point=2dd4ee&area=true&area_color=9b7bff&hide_border=true" alt="Contribution activity graph" />
-</div>
+</details>
 
 ---
 
-## 📫 Let's Connect
+## 📚 Training and Courses
 
-I am looking for a **full-stack or frontend role**. Email is the fastest way to reach me: **esraammohamedd@gmail.com**
+<details open>
+<summary><b>🟣 Summer Code Camp: Frontend Trainee</b> &nbsp;·&nbsp; Jul 2024 – Sep 2024</summary>
+
+**Information Technology Institute (ITI)**: intensive web development training with React.js covering components, hooks, state management and building real-world responsive applications.
+
+`React.js` `React Router` `JavaScript` `CSS` `HTML5` `Bootstrap`
+
+</details>
+
+<details open>
+<summary><b>🔵 Frontend Diploma</b> &nbsp;·&nbsp; Jan 2024 – Apr 2024</summary>
+
+**Route Academy**: modern frontend development, with multiple projects applying responsive design, JavaScript logic and React component architecture.
+
+`React.js` `Redux` `Axios` `JavaScript` `TypeScript` `CSS` `HTML5` `Bootstrap`
+
+</details>
+
+<details open>
+<summary><b>🟡 Computer Science Diploma</b> &nbsp;·&nbsp; Jul 2023 – Nov 2023</summary>
+
+**Route Academy**: core programming concepts, object-oriented design and problem solving in Java and C++.
+
+`Java` `C++` `OOP` `Problem Solving`
+
+</details>
+
+---
+
+## 🤝 Programs
+
+<details open>
+<summary><b>🩷 NextStep Mentorship Program</b> &nbsp;·&nbsp; Aug 2026 · 1 month</summary>
+
+**Deloitte Innovation Hub**: Software Engineering mentee, gaining industry insights and career guidance from Deloitte professionals.
+
+</details>
+
+---
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=120&section=footer&animation=twinkling" alt="" />
