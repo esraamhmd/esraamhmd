@@ -42,13 +42,14 @@ Computer Science and AI graduate from **MTI**, top of my class, passionate about
 - <img src="https://img.shields.io/badge/Experience-ff4fa3?style=flat-square" alt="Experience" /> <img src="https://img.shields.io/badge/Intern-e91e8c?style=flat-square" alt="Intern" /> Software Engineer Intern at **SpaceTech**, working in a team with GitHub Organizations and Jira
 - <img src="https://img.shields.io/badge/Freelance-e91e8c?style=flat-square" alt="Freelance" /> Developer delivering responsive, user-focused web solutions
 - <img src="https://img.shields.io/badge/Mentee-ff7ab8?style=flat-square" alt="Mentee" /> Deloitte **NextStep Mentorship Program** (Deloitte Innovation Hub)
-- <img src="https://img.shields.io/badge/Training-c2187a?style=flat-square" alt="Training" /> **ITI** (React.js) and **Route Academy** (Frontend and Computer Science diplomas)
+- <img src="https://img.shields.io/badge/Training-c2187a?style=flat-square" alt="Training" /> <img src="https://img.shields.io/badge/Course-ff7ab8?style=flat-square" alt="Course" /> **ITI** (React.js) and **Route Academy** (Frontend and Computer Science diplomas)
 - <img src="https://img.shields.io/badge/Looking%20for-ff4fa3?style=flat-square" alt="Looking for" /> A **full-stack or frontend role** to build innovative web products
 
 <div align="center">
 
-| **20+** | **30+** | **10+** | **3.5 / 4.0** |
+| <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" width="44" alt="Projects" /> | <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9e0/512.gif" width="44" alt="Skills" /> | <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c5/512.gif" width="44" alt="Certificates" /> | <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2b50/512.gif" width="44" alt="GPA" /> |
 |:---:|:---:|:---:|:---:|
+| **20+** | **30+** | **10+** | **3.5 / 4.0** |
 | Projects | Skills | Certificates | GPA at MTI |
 
 </div>
@@ -87,11 +88,9 @@ Computer Science and AI graduate from **MTI**, top of my class, passionate about
 <img src="https://img.shields.io/badge/Supabase-3ecf8e?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 
-**Languages and Mobile**<br>
+**Languages**<br>
 <img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/C++-00599c?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/Java-ed8b00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/Flutter-02569b?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
 
 **Testing and DevOps**<br>
 <img src="https://img.shields.io/badge/Jest-c21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
@@ -191,7 +190,7 @@ Computer Science and AI graduate from **MTI**, top of my class, passionate about
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bc/512.gif" width="44" align="absmiddle" alt=""> <img src="https://readme-typing-svg.herokuapp.com?font=Fredoka&weight=600&size=30&duration=1600&pause=100000&color=FF4FA3&vCenter=true&repeat=false&width=360&height=48&lines=Experience" align="absmiddle" alt="Experience">
 
 <details open>
-<summary><img src="https://img.shields.io/badge/Experience-ff4fa3?style=flat-square" alt="Experience" /> <img src="https://img.shields.io/badge/Intern-e91e8c?style=flat-square" alt="Intern" /> <b>Software Engineer Intern, SpaceTech</b> &nbsp;·&nbsp; Jul 2026 – Sep 2026</summary>
+<summary><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" width="30" align="absmiddle" alt="" /> <img src="https://img.shields.io/badge/Experience-ff4fa3?style=flat-square" alt="Experience" /> <img src="https://img.shields.io/badge/Intern-e91e8c?style=flat-square" alt="Intern" /> <b>Software Engineer Intern, SpaceTech</b> &nbsp;·&nbsp; Jul 2026 – Sep 2026</summary>
 
 <br>
 
@@ -212,7 +211,7 @@ Computer Science and AI graduate from **MTI**, top of my class, passionate about
 </details>
 
 <details open>
-<summary><img src="https://img.shields.io/badge/Freelance-e91e8c?style=flat-square" alt="Freelance" /> <b>Freelance Frontend Developer</b> &nbsp;·&nbsp; Aug 2026 – Present</summary>
+<summary><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" width="30" align="absmiddle" alt="" /> <img src="https://img.shields.io/badge/Freelance-e91e8c?style=flat-square" alt="Freelance" /> <b>Freelance Frontend Developer</b> &nbsp;·&nbsp; Aug 2026 – Present</summary>
 
 <br>
 
@@ -238,14 +237,14 @@ Computer Science and AI graduate from **MTI**, top of my class, passionate about
 - Graduation Project: **A+**
 - Among the top students in my class
 - Graduation project: **DermaCheck**, an intelligent image-based skin cancer detection system. A Flutter app (iOS and Android) with a CNN ensemble of MobileNetV3, ResNet50 and DenseNet121 reaching 96.1% accuracy.
+- <img src="https://img.shields.io/badge/Team%20Leader-ff4fa3?style=flat-square" alt="Team Leader" /> <img src="https://img.shields.io/badge/AI%20Developer-e91e8c?style=flat-square" alt="AI Developer" /> I led the graduation project team and was the AI developer, building and training the detection model.
 
 </details>
 
 ---
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4da/512.gif" width="44" align="absmiddle" alt=""> <img src="https://readme-typing-svg.herokuapp.com?font=Fredoka&weight=600&size=30&duration=1600&pause=100000&color=FF4FA3&vCenter=true&repeat=false&width=360&height=48&lines=Training" align="absmiddle" alt="Training">
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4da/512.gif" width="44" align="absmiddle" alt=""> <img src="https://readme-typing-svg.herokuapp.com?font=Fredoka&weight=600&size=30&duration=1600&pause=100000&color=FF4FA3&vCenter=true&repeat=false&width=700&height=48&lines=Training%2C+Courses+%26+Programs" align="absmiddle" alt="Training, Courses and Programs">
 
-<img src="https://img.shields.io/badge/Training%2C%20Courses%20%26%20Programs-ff4fa3?style=for-the-badge" alt="Training, Courses and Programs" />
 
 <details open>
 <summary><img src="https://img.shields.io/badge/Mentorship%20Program-ff4fa3?style=flat-square" alt="Mentorship Program" /> <img src="https://img.shields.io/badge/Mentee-ff7ab8?style=flat-square" alt="Mentee" /> <b>NextStep Mentorship Program</b> &nbsp;·&nbsp; Aug 2026 · 1 Month</summary>
@@ -316,7 +315,7 @@ Foundational computer science diploma covering core programming concepts, object
 ---
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:c2187a,45:e91e8c,100:ff4fa3&height=170&section=footer&text=Thanks%20for%20visiting&fontSize=32&fontColor=ffffff&fontAlignY=62&animation=twinkling" alt="Thanks for visiting" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Animated girl" />
 </div>
 
 <div align="center">
