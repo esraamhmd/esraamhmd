@@ -1,6 +1,6 @@
 <!-- Header: deep pink animated banner -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:c2187a,45:e91e8c,100:ff4fa3&height=200&section=header&animation=twinkling" alt="Esraa Mahmoud, Full-Stack Engineer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2a0a1f,50:5a0b3a,100:8a1055&height=240&section=header&text=Esraa%20Mahmoud&fontSize=70&fontColor=ff4fa3&fontAlignY=42&animation=twinkling&desc=Full-Stack%20Engineer%20%7C%20Next.js%20%7C%20React%20%7C%20Node.js&descSize=22&descAlignY=66" alt="Esraa Mahmoud, Full-Stack Engineer" />
 </div>
 
 <h1 align="center">
