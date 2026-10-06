@@ -18,7 +18,6 @@
   <a href="https://esraamhmd-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-ff4fa3?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/esraamhmd"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:esraammohamedd@gmail.com"><img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/esraamhmd"><img src="https://img.shields.io/badge/GitHub-24292f?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 ---
@@ -39,12 +38,12 @@ Computer Science and AI graduate from **MTI**, top of my class, passionate about
 
 <br>
 
-- <img src="https://img.shields.io/badge/Intern%20at%20SpaceTech-ff4fa3?style=flat-square" alt="Intern at SpaceTech" /> Software Engineer Intern, working in a team with GitHub Organizations and Jira
-- <img src="https://img.shields.io/badge/Freelance-e91e8c?style=flat-square" alt="Freelance" /> Developer delivering responsive, user-focused web solutions
-- <img src="https://img.shields.io/badge/Mentee%20at%20Deloitte-ff7ab8?style=flat-square" alt="Mentee at Deloitte" /> **NextStep Mentorship Program** (Deloitte Innovation Hub)
-- <img src="https://img.shields.io/badge/Training%20at%20ITI-c2187a?style=flat-square" alt="Training at ITI" /> React.js Summer Code Camp
-- <img src="https://img.shields.io/badge/Courses%20at%20Route%20Academy-e91e8c?style=flat-square" alt="Courses at Route Academy" /> Frontend and Computer Science diplomas
-- <img src="https://img.shields.io/badge/Looking%20for-ff4fa3?style=flat-square" alt="Looking for" /> A **full-stack or frontend role** to build innovative web products
+- **Experience · Intern at SpaceTech:** Software Engineer Intern, working in a team with GitHub Organizations and Jira
+- **Freelance:** Developer delivering responsive, user-focused web solutions
+- **Mentee at Deloitte:** NextStep Mentorship Program (Deloitte Innovation Hub)
+- **Training at ITI:** React.js Summer Code Camp
+- **Courses at Route Academy:** Frontend Development Diploma and Computer Science Diploma
+- **Looking for:** a **full-stack or frontend role** to build innovative web products
 
 <div align="center">
 
