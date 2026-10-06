@@ -4,7 +4,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fredoka&weight=600&size=38&duration=2200&pause=100000&color=FF4FA3&center=true&vCenter=true&repeat=false&width=680&height=70&lines=Hi+there%2C+I'm+Esraa+Mahmoud" alt="Hi there, I'm Esraa Mahmoud" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fredoka&weight=600&size=36&duration=2200&pause=100000&color=FF4FA3&center=false&vCenter=true&repeat=false&width=520&height=64&lines=Hi+there%2C+I'm+Esraa+Mahmoud" alt="Hi there, I'm Esraa Mahmoud" />
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="48" alt="Waving hand" />
 </h1>
 
@@ -16,9 +16,9 @@
 
 <p align="center">
   <a href="https://esraamhmd-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-ff4fa3?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/esraamhmd"><img src="https://img.shields.io/badge/LinkedIn-e91e8c?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:esraammohamedd@gmail.com"><img src="https://img.shields.io/badge/Email-ff7ab8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/esraamhmd"><img src="https://img.shields.io/badge/GitHub-c2187a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/esraamhmd"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:esraammohamedd@gmail.com"><img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/esraamhmd"><img src="https://img.shields.io/badge/GitHub-24292f?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 ---
@@ -39,7 +39,7 @@ Computer Science and AI graduate from **MTI**, top of my class, passionate about
 
 <br>
 
-- <img src="https://img.shields.io/badge/Experience-ff4fa3?style=flat-square" alt="Experience" /> Software Engineer Intern at **SpaceTech**, working in a team with GitHub Organizations and Jira
+- <img src="https://img.shields.io/badge/Experience-ff4fa3?style=flat-square" alt="Experience" /> <img src="https://img.shields.io/badge/Intern-e91e8c?style=flat-square" alt="Intern" /> Software Engineer Intern at **SpaceTech**, working in a team with GitHub Organizations and Jira
 - <img src="https://img.shields.io/badge/Freelance-e91e8c?style=flat-square" alt="Freelance" /> Developer delivering responsive, user-focused web solutions
 - <img src="https://img.shields.io/badge/Mentee-ff7ab8?style=flat-square" alt="Mentee" /> Deloitte **NextStep Mentorship Program** (Deloitte Innovation Hub)
 - <img src="https://img.shields.io/badge/Training-c2187a?style=flat-square" alt="Training" /> **ITI** (React.js) and **Route Academy** (Frontend and Computer Science diplomas)
@@ -58,29 +58,49 @@ Computer Science and AI graduate from **MTI**, top of my class, passionate about
 ## <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="44" align="absmiddle" alt=""> <img src="https://readme-typing-svg.herokuapp.com?font=Fredoka&weight=600&size=30&duration=1600&pause=100000&color=FF4FA3&vCenter=true&repeat=false&width=360&height=48&lines=Tech+Stack" align="absmiddle" alt="Tech Stack">
 
 **Frontend**<br>
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,redux&theme=dark" alt="Frontend technologies" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/React.js-20232a?style=for-the-badge&logo=react&logoColor=61dafb" alt="React.js" />
+<img src="https://img.shields.io/badge/React%20Router-ca4245?style=for-the-badge&logo=reactrouter&logoColor=white" alt="React Router" />
+<img src="https://img.shields.io/badge/Redux%20Toolkit-764abc?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit" />
+<img src="https://img.shields.io/badge/TanStack%20Query-ff4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack Query" />
+<img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/Vite-646cff?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
 
 **Styling and UI**<br>
-<img src="https://skillicons.dev/icons?i=tailwind,materialui,bootstrap,figma&theme=dark" alt="Styling and UI tools" />
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06b6d4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Material%20UI-007fff?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI" />
+<img src="https://img.shields.io/badge/Bootstrap-7952b3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+<img src="https://img.shields.io/badge/Figma-f24e1e?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 
-**Backend**<br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,cpp,java&theme=dark" alt="Backend technologies and languages" />
-
-**Databases**<br>
-<img src="https://skillicons.dev/icons?i=mongodb,supabase,postgres&theme=dark" alt="Databases" />
-
-**Testing and DevOps**<br>
-<img src="https://skillicons.dev/icons?i=jest,playwright,docker,aws,git,github&theme=dark" alt="Testing and DevOps tools" />
-
-**Libraries and tools**<br>
-<img src="https://img.shields.io/badge/TanStack%20Query-ff4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack Query" />
-<img src="https://img.shields.io/badge/React%20Router-ca4245?style=for-the-badge&logo=reactrouter&logoColor=white" alt="React Router" />
-<img src="https://img.shields.io/badge/Framer%20Motion-0055ff?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
+**Backend and APIs**<br>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+<img src="https://img.shields.io/badge/RESTful%20APIs-009688?style=for-the-badge" alt="RESTful APIs" />
 <img src="https://img.shields.io/badge/Zod-3068b7?style=for-the-badge&logo=zod&logoColor=white" alt="Zod" />
 <img src="https://img.shields.io/badge/Axios-5a29e4?style=for-the-badge&logo=axios&logoColor=white" alt="Axios" />
-<img src="https://img.shields.io/badge/Vite-646cff?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-<img src="https://img.shields.io/badge/Jira-0052cc?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+
+**Databases**<br>
+<img src="https://img.shields.io/badge/MongoDB-47a248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/Supabase-3ecf8e?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+
+**Languages and Mobile**<br>
+<img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/C++-00599c?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/Java-ed8b00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 <img src="https://img.shields.io/badge/Flutter-02569b?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+
+**Testing and DevOps**<br>
+<img src="https://img.shields.io/badge/Jest-c21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
+<img src="https://img.shields.io/badge/Playwright-2ead33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
+<img src="https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/AWS-ff9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+<img src="https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-24292f?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/Jira-0052cc?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
 
 ---
 
@@ -95,7 +115,7 @@ Computer Science and AI graduate from **MTI**, top of my class, passionate about
 
 ---
 
-## <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="44" align="absmiddle" alt=""> <img src="https://readme-typing-svg.herokuapp.com?font=Fredoka&weight=600&size=30&duration=1600&pause=100000&color=FF4FA3&vCenter=true&repeat=false&width=420&height=48&lines=Featured+Projects" align="absmiddle" alt="Featured Projects">
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="44" align="absmiddle" alt=""> <img src="https://readme-typing-svg.herokuapp.com?font=Fredoka&weight=600&size=30&duration=1600&pause=100000&color=FF4FA3&vCenter=true&repeat=false&width=420&height=48&lines=Featured+Projects" align="absmiddle" alt="Featured Projects">
 
 <table>
   <tr>
@@ -168,10 +188,10 @@ Computer Science and AI graduate from **MTI**, top of my class, passionate about
 
 ---
 
-## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bc.png?v8" width="40" align="absmiddle" alt=""> <img src="https://readme-typing-svg.herokuapp.com?font=Fredoka&weight=600&size=30&duration=1600&pause=100000&color=FF4FA3&vCenter=true&repeat=false&width=360&height=48&lines=Experience" align="absmiddle" alt="Experience">
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bc/512.gif" width="44" align="absmiddle" alt=""> <img src="https://readme-typing-svg.herokuapp.com?font=Fredoka&weight=600&size=30&duration=1600&pause=100000&color=FF4FA3&vCenter=true&repeat=false&width=360&height=48&lines=Experience" align="absmiddle" alt="Experience">
 
 <details open>
-<summary><img src="https://img.shields.io/badge/Internship-ff4fa3?style=flat-square" alt="Internship" /> <b>Software Engineer Intern, SpaceTech</b> &nbsp;·&nbsp; Jul 2026 – Sep 2026</summary>
+<summary><img src="https://img.shields.io/badge/Experience-ff4fa3?style=flat-square" alt="Experience" /> <img src="https://img.shields.io/badge/Intern-e91e8c?style=flat-square" alt="Intern" /> <b>Software Engineer Intern, SpaceTech</b> &nbsp;·&nbsp; Jul 2026 – Sep 2026</summary>
 
 <br>
 
@@ -205,7 +225,7 @@ Computer Science and AI graduate from **MTI**, top of my class, passionate about
 
 ---
 
-## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f393.png?v8" width="40" align="absmiddle" alt=""> <img src="https://readme-typing-svg.herokuapp.com?font=Fredoka&weight=600&size=30&duration=1600&pause=100000&color=FF4FA3&vCenter=true&repeat=false&width=360&height=48&lines=Education" align="absmiddle" alt="Education">
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" width="44" align="absmiddle" alt=""> <img src="https://readme-typing-svg.herokuapp.com?font=Fredoka&weight=600&size=30&duration=1600&pause=100000&color=FF4FA3&vCenter=true&repeat=false&width=360&height=48&lines=Education" align="absmiddle" alt="Education">
 
 <details open>
 <summary><img src="https://img.shields.io/badge/University-ff7ab8?style=flat-square" alt="University" /> <b>Bachelor of Computer Science and AI</b> &nbsp;·&nbsp; Oct 2021 – Jul 2025</summary>
@@ -223,12 +243,12 @@ Computer Science and AI graduate from **MTI**, top of my class, passionate about
 
 ---
 
-## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png?v8" width="40" align="absmiddle" alt=""> <img src="https://readme-typing-svg.herokuapp.com?font=Fredoka&weight=600&size=30&duration=1600&pause=100000&color=FF4FA3&vCenter=true&repeat=false&width=360&height=48&lines=Training" align="absmiddle" alt="Training">
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4da/512.gif" width="44" align="absmiddle" alt=""> <img src="https://readme-typing-svg.herokuapp.com?font=Fredoka&weight=600&size=30&duration=1600&pause=100000&color=FF4FA3&vCenter=true&repeat=false&width=360&height=48&lines=Training" align="absmiddle" alt="Training">
 
 <img src="https://img.shields.io/badge/Training%2C%20Courses%20%26%20Programs-ff4fa3?style=for-the-badge" alt="Training, Courses and Programs" />
 
 <details open>
-<summary><img src="https://img.shields.io/badge/Mentorship%20Program-ff4fa3?style=flat-square" alt="Mentorship Program" /> <b>NextStep Mentorship Program</b> &nbsp;·&nbsp; Aug 2026 · 1 Month</summary>
+<summary><img src="https://img.shields.io/badge/Mentorship%20Program-ff4fa3?style=flat-square" alt="Mentorship Program" /> <img src="https://img.shields.io/badge/Mentee-ff7ab8?style=flat-square" alt="Mentee" /> <b>NextStep Mentorship Program</b> &nbsp;·&nbsp; Aug 2026 · 1 Month</summary>
 
 <br>
 
