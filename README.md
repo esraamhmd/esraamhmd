@@ -38,10 +38,10 @@ Computer Science and AI graduate from **MTI**, top of my class, passionate about
 
 <br>
 
-- $\color{#ff4fa3}{\textsf{\textbf{Ex-Intern at SpaceTech:}}}$ Software Engineer Intern, working in a team with GitHub Organizations and Jira
-- $\color{#ff4fa3}{\textsf{\textbf{Freelance:}}}$ Developer delivering responsive, user-focused web solutions
-- $\color{#ff4fa3}{\textsf{\textbf{Ex-Mentee at Deloitte:}}}$ NextStep Mentorship Program (Deloitte Innovation Hub)
-- $\color{#ff4fa3}{\textsf{\textbf{Ex-Trainee at ITI:}}}$ React.js Summer Code Camp
+- <img src="https://img.shields.io/badge/Ex--Intern%20at%20SpaceTech-ff4fa3?style=flat-square" alt="Ex-Intern at SpaceTech" /> Software Engineer Intern, working in a team with GitHub Organizations and Jira
+- <img src="https://img.shields.io/badge/Freelance-e91e8c?style=flat-square" alt="Freelance" /> Developer delivering responsive, user-focused web solutions
+- <img src="https://img.shields.io/badge/Ex--Mentee%20at%20Deloitte-ff7ab8?style=flat-square" alt="Ex-Mentee at Deloitte" /> NextStep Mentorship Program (Deloitte Innovation Hub)
+- <img src="https://img.shields.io/badge/Ex--Trainee%20at%20ITI-c2187a?style=flat-square" alt="Ex-Trainee at ITI" /> React.js Summer Code Camp
 - $\color{#ff4fa3}{\textsf{\textbf{Courses at Route Academy:}}}$ Frontend Development Diploma and Computer Science Diploma
 - $\color{#ff4fa3}{\textsf{\textbf{Looking for:}}}$ a **full-stack or frontend role** to build innovative web products
 
