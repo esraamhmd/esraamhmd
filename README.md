@@ -1,32 +1,32 @@
-<!-- Header: animated twinkling gradient banner -->
+<!-- Header: animated twinkling pink gradient banner -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=230&section=header&text=Esraa%20Mahmoud&fontSize=60&fontColor=ffffff&fontAlignY=36&animation=twinkling&desc=Full-Stack%20Engineer%20%7C%20Next.js%20%7C%20React%20%7C%20Node.js&descSize=20&descAlignY=58" alt="Esraa Mahmoud, Full-Stack Engineer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffc2e0,35:ff7ab8,70:ff4fa3,100:c2187a&height=230&section=header&text=Esraa%20Mahmoud&fontSize=60&fontColor=ffffff&fontAlignY=36&animation=twinkling&desc=Full-Stack%20Engineer%20%7C%20Next.js%20%7C%20React%20%7C%20Node.js&descSize=20&descAlignY=58" alt="Esraa Mahmoud, Full-Stack Engineer" />
 </div>
 
 <div align="center">
   <a href="https://github.com/esraamhmd">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=FF4FA3;9B7BFF;2DD4EE;34D399;FBBF24&center=true&vCenter=true&width=720&height=56&lines=Full-Stack+Engineer;Next.js+%7C+React+%7C+TypeScript;Node.js+%7C+Express+%7C+REST+APIs;MongoDB+%7C+Supabase;Clean+code%2C+fast+and+accessible" alt="Typing animation of roles and skills" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=FF4FA3;FF7AB8;E91E8C;FFA6CF;C2187A&center=true&vCenter=true&width=720&height=56&lines=Full-Stack+Engineer;Next.js+%7C+React+%7C+TypeScript;Node.js+%7C+Express+%7C+REST+APIs;MongoDB+%7C+Supabase;Clean+code%2C+fast+and+accessible" alt="Typing animation of roles and skills" />
   </a>
 </div>
 
 <p align="center">
   <a href="https://esraamhmd-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-ff4fa3?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/esraamhmd"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:esraammohamedd@gmail.com"><img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/esraamhmd"><img src="https://img.shields.io/badge/GitHub-24292f?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/esraamhmd"><img src="https://img.shields.io/badge/LinkedIn-e91e8c?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:esraammohamedd@gmail.com"><img src="https://img.shields.io/badge/Email-ff7ab8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/esraamhmd"><img src="https://img.shields.io/badge/GitHub-c2187a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 ---
 
-## 👋 About Me
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="44" alt=""> About Me
 
 Computer Science and AI graduate from **MTI**, top of my class, passionate about **full-stack development**. I build modern web applications with **Next.js, React, Node.js and real databases**, with a focus on clean code, performance, accessibility, SEO and a great user experience in every feature.
 
-- 💼 Software Engineer Intern at **SpaceTech**, working in a team with GitHub Organizations and Jira
-- 🤝 Mentee in the **Deloitte NextStep Mentorship Program** (Deloitte Innovation Hub)
-- 🚀 Freelance developer delivering responsive, user-focused web solutions
-- 🎓 Trained at **ITI** (React.js) and **Route Academy** (Frontend and Computer Science diplomas)
-- 🔍 Looking for a **full-stack or frontend role** to build innovative web products
+* 💼 **Experience:** Software Engineer Intern at **SpaceTech**, working in a team with GitHub Organizations and Jira
+* 🚀 **Freelance:** Developer delivering responsive, user-focused web solutions
+* 🤝 **Mentee:** Deloitte **NextStep Mentorship Program** (Deloitte Innovation Hub)
+* 🎓 **Training:** **ITI** (React.js) and **Route Academy** (Frontend and Computer Science diplomas)
+* 🔍 **Looking for:** a **full-stack or frontend role** to build innovative web products
 
 <div align="center">
 
@@ -38,41 +38,56 @@ Computer Science and AI graduate from **MTI**, top of my class, passionate about
 
 ---
 
-## 🛠️ Tech Stack
+## <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="44" alt=""> Tech Stack
 
 <div align="center">
 
 **Frontend**<br>
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,redux&theme=dark" alt="Frontend technologies" />
+<img src="https://img.shields.io/badge/Next.js-ff4fa3?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/React-e91e8c?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+<img src="https://img.shields.io/badge/TypeScript-ff7ab8?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/JavaScript-c2187a?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+<img src="https://img.shields.io/badge/HTML5-ff4fa3?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-e91e8c?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/Redux%20Toolkit-ff7ab8?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit" />
+<img src="https://img.shields.io/badge/TanStack%20Query-c2187a?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack Query" />
+<img src="https://img.shields.io/badge/React%20Router-ff4fa3?style=for-the-badge&logo=reactrouter&logoColor=white" alt="React Router" />
+<img src="https://img.shields.io/badge/Framer%20Motion-e91e8c?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
 
 **Styling and UI**<br>
-<img src="https://skillicons.dev/icons?i=tailwind,materialui,bootstrap,figma&theme=dark" alt="Styling and UI tools" />
+<img src="https://img.shields.io/badge/Tailwind%20CSS-ff7ab8?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Material%20UI-c2187a?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI" />
+<img src="https://img.shields.io/badge/Bootstrap-ff4fa3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+<img src="https://img.shields.io/badge/Figma-e91e8c?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 
 **Backend**<br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,cpp,java&theme=dark" alt="Backend technologies and languages" />
+<img src="https://img.shields.io/badge/Node.js-ff7ab8?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express.js-c2187a?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+<img src="https://img.shields.io/badge/Zod-ff4fa3?style=for-the-badge&logo=zod&logoColor=white" alt="Zod" />
+<img src="https://img.shields.io/badge/Axios-e91e8c?style=for-the-badge&logo=axios&logoColor=white" alt="Axios" />
+<img src="https://img.shields.io/badge/Python-ff7ab8?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/C++-c2187a?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/Java-ff4fa3?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 
 **Databases**<br>
-<img src="https://skillicons.dev/icons?i=mongodb,supabase,postgres&theme=dark" alt="Databases" />
+<img src="https://img.shields.io/badge/MongoDB-e91e8c?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/Supabase-ff7ab8?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+<img src="https://img.shields.io/badge/PostgreSQL-c2187a?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 
 **Testing and DevOps**<br>
-<img src="https://skillicons.dev/icons?i=jest,playwright,docker,aws,git,github&theme=dark" alt="Testing and DevOps tools" />
-
-<br>
-
-<img src="https://img.shields.io/badge/TanStack%20Query-ff4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack Query" />
-<img src="https://img.shields.io/badge/React%20Router-ca4245?style=for-the-badge&logo=reactrouter&logoColor=white" alt="React Router" />
-<img src="https://img.shields.io/badge/Framer%20Motion-9b7bff?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
-<img src="https://img.shields.io/badge/Zod-3068b7?style=for-the-badge&logo=zod&logoColor=white" alt="Zod" />
-<img src="https://img.shields.io/badge/Axios-5a29e4?style=for-the-badge&logo=axios&logoColor=white" alt="Axios" />
-<img src="https://img.shields.io/badge/Vite-646cff?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-<img src="https://img.shields.io/badge/Jira-0052cc?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
-<img src="https://img.shields.io/badge/Flutter-02569b?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+<img src="https://img.shields.io/badge/Jest-ff4fa3?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
+<img src="https://img.shields.io/badge/Playwright-e91e8c?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
+<img src="https://img.shields.io/badge/Docker-ff7ab8?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/AWS-c2187a?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+<img src="https://img.shields.io/badge/Git-ff4fa3?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-e91e8c?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/Jira-ff7ab8?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
 
 </div>
 
 ---
 
-## 🧩 What I Do
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="44" alt=""> What I Do
 
 | | |
 |---|---|
@@ -83,62 +98,83 @@ Computer Science and AI graduate from **MTI**, top of my class, passionate about
 
 ---
 
-## 🚀 Featured Projects
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="44" alt=""> Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>🏭 MotorSync</h3>
+      <img src="https://img.shields.io/badge/Fullstack-ff4fa3?style=flat-square" alt="Fullstack" />
       <p>Car parts factory ERP dashboard with charts, bilingual Arabic (RTL) and English (LTR), and server-side API routes so no database keys reach the browser.</p>
       <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-        <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Tailwind-06b6d4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-        <img src="https://img.shields.io/badge/Supabase-3ecf8e?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+        <img src="https://img.shields.io/badge/Next.js-ff4fa3?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/TypeScript-e91e8c?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Tailwind-ff7ab8?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+        <img src="https://img.shields.io/badge/Recharts-c2187a?style=flat-square" alt="Recharts" />
+        <img src="https://img.shields.io/badge/Supabase-ff4fa3?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
       </p>
       <a href="https://motorsync.vercel.app">🔗 Live app</a>
     </td>
     <td width="50%" valign="top">
       <h3>🏨 LuxStay</h3>
+      <img src="https://img.shields.io/badge/Fullstack-ff4fa3?style=flat-square" alt="Fullstack" />
       <p>Hotel booking website on the Next.js App Router. Double bookings are blocked by one atomic SQL insert, and the site scores 100 on all four Lighthouse categories.</p>
       <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-        <img src="https://img.shields.io/badge/Redux-764abc?style=flat-square&logo=redux&logoColor=white" alt="Redux" />
-        <img src="https://img.shields.io/badge/Cloudinary-3448c5?style=flat-square&logo=cloudinary&logoColor=white" alt="Cloudinary" />
-        <img src="https://img.shields.io/badge/Lighthouse-100-34d399?style=flat-square&logo=lighthouse&logoColor=white" alt="Lighthouse 100" />
+        <img src="https://img.shields.io/badge/Next.js-ff4fa3?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/Tailwind-e91e8c?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+        <img src="https://img.shields.io/badge/Redux-ff7ab8?style=flat-square&logo=redux&logoColor=white" alt="Redux" />
+        <img src="https://img.shields.io/badge/Cloudinary-c2187a?style=flat-square&logo=cloudinary&logoColor=white" alt="Cloudinary" />
+        <img src="https://img.shields.io/badge/Lighthouse-100-ff4fa3?style=flat-square&logo=lighthouse&logoColor=white" alt="Lighthouse 100" />
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🩺 DermaCheck</h3>
-      <p>Flutter app (iOS and Android) for early skin cancer detection. A CNN ensemble of MobileNetV3, ResNet50 and DenseNet121 reaches <b>96.1% accuracy</b>. Features lesion photo analysis in 5 to 10 seconds, confidence scores, scan history, PDF reports and doctor sharing.</p>
+      <h3>🛍️ ShopNest</h3>
+      <img src="https://img.shields.io/badge/Frontend-ff7ab8?style=flat-square" alt="Frontend" />
+      <p>A responsive e-commerce web app built completely from scratch with React, TypeScript and Redux Toolkit. Features smart search, mega menus, cart, wishlist, full checkout, login and signup, an OpenStreetMap delivery picker, an auto-playing hero banner and full mobile responsiveness.</p>
       <p>
-        <img src="https://img.shields.io/badge/Flutter-02569b?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
-        <img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/CNN-ensemble-ff4fa3?style=flat-square" alt="CNN ensemble" />
+        <img src="https://img.shields.io/badge/React.js-ff4fa3?style=flat-square&logo=react&logoColor=white" alt="React.js" />
+        <img src="https://img.shields.io/badge/TypeScript-e91e8c?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Redux%20Toolkit-ff7ab8?style=flat-square&logo=redux&logoColor=white" alt="Redux Toolkit" />
+        <img src="https://img.shields.io/badge/React%20Router-c2187a?style=flat-square&logo=reactrouter&logoColor=white" alt="React Router" />
+        <img src="https://img.shields.io/badge/DummyJSON%20API-ff4fa3?style=flat-square" alt="DummyJSON API" />
+        <img src="https://img.shields.io/badge/Flaticon-e91e8c?style=flat-square" alt="Flaticon" />
+        <img src="https://img.shields.io/badge/OpenStreetMap-ff7ab8?style=flat-square&logo=openstreetmap&logoColor=white" alt="OpenStreetMap" />
+        <img src="https://img.shields.io/badge/Custom%20CSS-c2187a?style=flat-square&logo=css3&logoColor=white" alt="Custom CSS" />
       </p>
+      <a href="https://shopnest-e-commrce-website.vercel.app/">🔗 Live app</a>
     </td>
     <td width="50%" valign="top">
-      <h3>🏅 Captaini</h3>
-      <p>AI coach-matching platform for sports coaching. I built landing pages, the user dashboard and coach search with filtering as part of the frontend team.</p>
+      <h3>🏦 BaPayzo</h3>
+      <img src="https://img.shields.io/badge/Fullstack-ff4fa3?style=flat-square" alt="Fullstack" />
+      <p>A full-stack banking web app with secure JWT auth, instant money transfers, real-time balance, paginated transaction history, spending charts, an admin panel and a MongoDB Atlas backend.</p>
       <p>
-        <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb" alt="React" />
-        <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Vite-646cff?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-        <img src="https://img.shields.io/badge/Framer%20Motion-9b7bff?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion" />
+        <img src="https://img.shields.io/badge/Node.js-ff4fa3?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Express.js-e91e8c?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
+        <img src="https://img.shields.io/badge/MongoDB-ff7ab8?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+        <img src="https://img.shields.io/badge/Mongoose-c2187a?style=flat-square" alt="Mongoose" />
+        <img src="https://img.shields.io/badge/JWT-ff4fa3?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+        <img src="https://img.shields.io/badge/Next.js-e91e8c?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/React.js-ff7ab8?style=flat-square&logo=react&logoColor=white" alt="React.js" />
+        <img src="https://img.shields.io/badge/TypeScript-c2187a?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Redux%20Toolkit-ff4fa3?style=flat-square&logo=redux&logoColor=white" alt="Redux Toolkit" />
+        <img src="https://img.shields.io/badge/TanStack%20Query-e91e8c?style=flat-square&logo=reactquery&logoColor=white" alt="TanStack Query" />
+        <img src="https://img.shields.io/badge/Material%20UI-ff7ab8?style=flat-square&logo=mui&logoColor=white" alt="Material UI" />
+        <img src="https://img.shields.io/badge/Zod-c2187a?style=flat-square&logo=zod&logoColor=white" alt="Zod" />
+        <img src="https://img.shields.io/badge/bcryptjs-ff4fa3?style=flat-square" alt="bcryptjs" />
+        <img src="https://img.shields.io/badge/Recharts-e91e8c?style=flat-square" alt="Recharts" />
       </p>
-      <a href="https://captaini.vercel.app">🔗 Live app</a>
     </td>
   </tr>
 </table>
 
 ---
 
-## 💼 Experience
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="44" alt=""> Experience
 
 <details open>
-<summary><b>🟣 Software Engineer Intern, SpaceTech</b> &nbsp;·&nbsp; Jul 2026 – Sep 2026</summary>
+<summary><b>🩷 Software Engineer Intern, SpaceTech</b> &nbsp;·&nbsp; Jul 2026 – Sep 2026</summary>
 
 - Contributed as a frontend team member on **Captaini**, a sports coaching platform, collaborating through GitHub Organizations and Jira.
 - Built responsive landing and marketing pages, the dashboard and user portal, and search and filtering for coaches.
@@ -161,25 +197,25 @@ Computer Science and AI graduate from **MTI**, top of my class, passionate about
 
 ---
 
-## 🎓 Education
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="44" alt=""> Education
 
 <details open>
-<summary><b>🟢 Bachelor of Computer Science and AI</b> &nbsp;·&nbsp; Oct 2021 – Jul 2025</summary>
+<summary><b>🩷 Bachelor of Computer Science and AI</b> &nbsp;·&nbsp; Oct 2021 – Jul 2025</summary>
 
 **Modern University for Technology and Information (MTI)**, Faculty of Computers and Artificial Intelligence
 
 - GPA **3.5 / 4.0** · Grade **A** · Graduation project **A+**
 - Among the top students in my class
-- Graduation project: **DermaCheck**, an intelligent image-based skin cancer detection system (Flutter app with a CNN ensemble reaching 96.1% accuracy)
+- Graduation project: **DermaCheck**, an intelligent image-based skin cancer detection system. A Flutter app (iOS and Android) with a CNN ensemble of MobileNetV3, ResNet50 and DenseNet121 reaching 96.1% accuracy.
 
 </details>
 
 ---
 
-## 📚 Training and Courses
+## <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="44" alt=""> Training and Courses
 
 <details open>
-<summary><b>🟣 Summer Code Camp: Frontend Trainee</b> &nbsp;·&nbsp; Jul 2024 – Sep 2024</summary>
+<summary><b>🩷 Summer Code Camp: Frontend Trainee</b> &nbsp;·&nbsp; Jul 2024 – Sep 2024</summary>
 
 **Information Technology Institute (ITI)**: intensive web development training with React.js covering components, hooks, state management and building real-world responsive applications.
 
@@ -188,7 +224,7 @@ Computer Science and AI graduate from **MTI**, top of my class, passionate about
 </details>
 
 <details open>
-<summary><b>🔵 Frontend Diploma</b> &nbsp;·&nbsp; Jan 2024 – Apr 2024</summary>
+<summary><b>🩷 Frontend Diploma</b> &nbsp;·&nbsp; Jan 2024 – Apr 2024</summary>
 
 **Route Academy**: modern frontend development, with multiple projects applying responsive design, JavaScript logic and React component architecture.
 
@@ -197,7 +233,7 @@ Computer Science and AI graduate from **MTI**, top of my class, passionate about
 </details>
 
 <details open>
-<summary><b>🟡 Computer Science Diploma</b> &nbsp;·&nbsp; Jul 2023 – Nov 2023</summary>
+<summary><b>🩷 Computer Science Diploma</b> &nbsp;·&nbsp; Jul 2023 – Nov 2023</summary>
 
 **Route Academy**: core programming concepts, object-oriented design and problem solving in Java and C++.
 
@@ -207,7 +243,7 @@ Computer Science and AI graduate from **MTI**, top of my class, passionate about
 
 ---
 
-## 🤝 Programs
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="44" alt=""> Programs
 
 <details open>
 <summary><b>🩷 NextStep Mentorship Program</b> &nbsp;·&nbsp; Aug 2026 · 1 month</summary>
@@ -219,7 +255,7 @@ Computer Science and AI graduate from **MTI**, top of my class, passionate about
 ---
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=120&section=footer&animation=twinkling" alt="" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffc2e0,35:ff7ab8,70:ff4fa3,100:c2187a&height=120&section=footer&animation=twinkling" alt="" />
 </div>
 
 <p align="center"><b>✨ Always learning, building and improving 🚀</b></p>
