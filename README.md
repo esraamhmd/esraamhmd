@@ -202,10 +202,11 @@ Computer Science and AI graduate from **MTI**, top of my class, passionate about
 
 <br>
 
-- Contributed as a frontend team member on **Captaini**, a sports coaching platform, collaborating through GitHub Organizations and Jira.
-- Built responsive landing and marketing pages, the dashboard and user portal, and search and filtering for coaches.
-- Joined a separate internal team that builds and maintains the company's collateral products, working on frontend and UI.
-- Took part in sprint planning, daily standups, code reviews and cross-functional collaboration, and learned how engineering decisions connect to business goals.
+- Contributed as a frontend team member on Captaini, a sports coaching platform, collaborating via GitHub organization and Jira.
+- Worked in an agile team using GitHub Organizations for version control and code reviews.
+- Joined a separate internal team building the company's collateral products, working on frontend and UI.
+- Gained business exposure by understanding product requirements, client needs, and how engineering decisions support business goals.
+- Participated in sprint planning, daily standups, and cross-functional collaboration.
 
 <img src="https://img.shields.io/badge/React.js-20232a?style=flat-square&logo=react&logoColor=61dafb" alt="React.js" />
 <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
