@@ -23,24 +23,24 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="44" align="absmiddle" alt=""> <img src="https://readme-typing-svg.herokuapp.com?font=Fredoka&weight=600&size=30&duration=1600&pause=100000&color=3368A0&vCenter=true&repeat=false&width=360&height=48&lines=About+Me" align="absmiddle" alt="About Me">
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="44" align="absmiddle" alt=""> <img src="https://readme-typing-svg.herokuapp.com?font=Fredoka&weight=600&size=30&duration=1600&pause=100000&color=66A3BF&vCenter=true&repeat=false&width=360&height=48&lines=About+Me" align="absmiddle" alt="About Me">
 
 Computer Science and AI graduate from **MTI**, top of my class, passionate about **full-stack development**. I build modern web applications with **Next.js, React, Node.js and real databases**, with a focus on clean code, performance, accessibility, SEO and a great user experience in every feature.
 
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+and+AI+graduate+from+MTI;Top+of+my+class%2C+passionate+about+full-stack+development;I+build+apps+with+Next.js%2C+React+and+Node.js;Real+databases%2C+clean+code%2C+fast+and+accessible+UIs&font=Fredoka&weight=500&width=820&height=60&color=66A3BF&center=true&vCenter=true&size=22&duration=3200&pause=900" alt="Computer Science and AI graduate from MTI who builds full-stack apps" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+and+AI+graduate+from+MTI;Top+of+my+class%2C+passionate+about+full-stack+development;I+build+apps+with+Next.js%2C+React+and+Node.js;Real+databases%2C+clean+code%2C+fast+and+accessible+UIs&font=Fredoka&weight=500&width=820&height=60&color=99C7E0&center=true&vCenter=true&size=22&duration=3200&pause=900" alt="Computer Science and AI graduate from MTI who builds full-stack apps" />
 </div>
 
 <br>
 
-- <img src="https://img.shields.io/badge/Ex--Intern%20at%20SpaceTech-3368A0?style=flat-square" alt="Ex-Intern at SpaceTech" /> Software Engineer Intern, working in a team with GitHub Organizations and Jira
-- <img src="https://img.shields.io/badge/Freelance-3368A0?style=flat-square" alt="Freelance" /> Developer delivering responsive, user-focused web solutions
-- <img src="https://img.shields.io/badge/Ex--Mentee%20at%20Deloitte-66A3BF?style=flat-square" alt="Ex-Mentee at Deloitte" /> NextStep Mentorship Program (Deloitte Innovation Hub)
-- <img src="https://img.shields.io/badge/Ex--Trainee%20at%20ITI-091540?style=flat-square" alt="Ex-Trainee at ITI" /> React.js Summer Code Camp
-- <img src="https://img.shields.io/badge/Courses%20at%20Route%20Academy-3368A0?style=flat-square" alt="Courses at Route Academy" /> Frontend Development Diploma and Computer Science Diploma
-- <img src="https://img.shields.io/badge/Looking%20for-3368A0?style=flat-square" alt="Looking for" /> a **full-stack, frontend or backend role** to build innovative web products
+- <img src="https://img.shields.io/badge/Ex--Intern%20at%20SpaceTech-091540?style=flat-square" alt="Ex-Intern at SpaceTech" /> Software Engineer Intern, working in a team with GitHub Organizations and Jira
+- <img src="https://img.shields.io/badge/Freelance-1F4F8A?style=flat-square" alt="Freelance" /> Developer delivering responsive, user-focused web solutions
+- <img src="https://img.shields.io/badge/Ex--Mentee%20at%20Deloitte-3368A0?style=flat-square" alt="Ex-Mentee at Deloitte" /> NextStep Mentorship Program (Deloitte Innovation Hub)
+- <img src="https://img.shields.io/badge/Ex--Trainee%20at%20ITI-4A86B8?style=flat-square" alt="Ex-Trainee at ITI" /> React.js Summer Code Camp
+- <img src="https://img.shields.io/badge/Courses%20at%20Route%20Academy-66A3BF?style=flat-square" alt="Courses at Route Academy" /> Frontend Development Diploma and Computer Science Diploma
+- <img src="https://img.shields.io/badge/Looking%20for-99C7E0?style=flat-square" alt="Looking for" /> a **full-stack, frontend or backend role** to build innovative web products
 
 <div align="center">
 
