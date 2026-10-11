@@ -5,7 +5,7 @@
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fredoka&weight=600&size=46&duration=2200&pause=100000&color=FF4FA3&center=false&vCenter=true&repeat=false&width=590&height=80&lines=Hi+there%2C+I'm+Esraa+Mahmoud" alt="Hi there, I'm Esraa Mahmoud" />
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="48" alt="Waving hand" />
+
 </h1>
 
 <div align="center">
