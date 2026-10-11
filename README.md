@@ -3,10 +3,11 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:c2187a,45:e91e8c,100:ff4fa3&height=280&section=header&text=Esraa%20Mahmoud&fontSize=72&fontColor=ffffff&fontAlignY=40&stroke=ffffff&strokeWidth=1&animation=twinkling&desc=Full-Stack%20Engineer%20%7C%20Next.js%20%7C%20React%20%7C%20Node.js&descSize=22&descAlignY=64" alt="Esraa Mahmoud, Full-Stack Engineer" />
 </div>
 
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fredoka&weight=600&size=46&duration=2200&pause=100000&color=FF4FA3&center=false&vCenter=true&repeat=false&width=590&height=80&lines=Hi+there%2C+I'm+Esraa+Mahmoud" alt="Hi there, I'm Esraa Mahmoud" />
-
 </h1>
+
 
 <div align="center">
   <a href="https://github.com/esraamhmd">
