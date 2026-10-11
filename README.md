@@ -1,4 +1,3 @@
-
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:c2187a,45:e91e8c,100:ff4fa3&height=280&section=header&text=Esraa%20Mahmoud&fontSize=72&fontColor=ffffff&fontAlignY=40&stroke=ffffff&strokeWidth=1&animation=twinkling&desc=Full-Stack%20Engineer%20%7C%20Next.js%20%7C%20React%20%7C%20Node.js&descSize=22&descAlignY=64" alt="Esraa Mahmoud, Full-Stack Engineer" />
 </div>
@@ -222,14 +221,16 @@ Computer Science and AI graduate from **MTI**, top of my class, passionate about
 </details>
 
 <details open>
-<summary><img src="https://img.shields.io/badge/Freelance-e91e8c?style=flat-square" alt="Freelance" /> <b>Freelance Frontend Developer</b> &nbsp;·&nbsp; Aug 2026 – Present</summary>
+<summary><img src="https://img.shields.io/badge/Freelance-e91e8c?style=flat-square" alt="Freelance" /> <b>Freelance Fullstack Developer</b> &nbsp;·&nbsp; Aug 2026 – Present</summary>
 
 <br>
 
-- Developed responsive web applications with React.js, TypeScript, JavaScript, HTML and CSS.
-- Integrated RESTful APIs and managed application state with Redux Toolkit and TanStack Query.
-- Optimized performance, resolved bugs and kept code clean and reusable.
-- Delivered high-quality projects on time while working closely with clients.
+- Design and build complete web applications end to end, from responsive user interfaces to the server side and database.
+- Create modern, user-friendly interfaces with a strong focus on responsiveness, accessibility and performance.
+- Develop secure REST APIs with authentication, database integration and role-based access for real client needs.
+- Connect frontend and backend smoothly, managing application state and data fetching for a seamless user experience.
+- Optimize performance, fix bugs and keep the code clean, reusable and easy to maintain.
+- Deliver high-quality projects on time while collaborating closely with clients.
 
 </details>
 
