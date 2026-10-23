@@ -25,7 +25,7 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="44" align="absmiddle" alt=""> <img src="https://readme-typing-svg.herokuapp.com?font=Fredoka&weight=600&size=30&duration=1600&pause=100000&color=FF4FA3&vCenter=true&repeat=false&width=360&height=48&lines=About+Me" align="absmiddle" alt="About Me">
 
-Computer Science and AI graduate from **MTI**, top of my class, passionate about **full-stack development**. I build modern web applications with **Next.js, React, Node.js and real databases**, with a focus on clean code, performance, accessibility, SEO and a great user experience in every feature.
+Computer Science and AI graduate from **Modern University for Technology and Information (MTI)**, top of my class, passionate about **full-stack development**. I build modern web applications with **Next.js, React, Node.js and real databases**, with a focus on clean code, performance, accessibility, SEO and a great user experience in every feature.
 
 
 
